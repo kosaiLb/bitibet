@@ -1,0 +1,877 @@
+{
+    "Belgique": [
+        [
+            "Super Coupe",
+            "Super Cup de Belge"
+        ]
+    ],
+    "Suisse": [
+        [
+            "Championnat national",
+            "Suisse. Ligue Super "
+        ],
+        [
+            "Dosenbach Challenge Ligue",
+            "Suisse. Ligue Challenge"
+        ]
+    ],
+    "Autriche": [
+        [
+            "Coupe d'Autriche OFB",
+            "Coupe d'Autriche"
+        ]
+    ],
+    "Bangladesh": [
+        [
+            "Premier League",
+             "Bangladesh. Premier League."
+        ]
+    ],
+    "Ecosse": [
+        [
+            "League Cup",
+            "Ecosse. Coupe de Ligue"
+        ]
+    ],
+    "Indonesie": [
+        [
+            "Liga 1",
+            "Indonesie. Ligue Super"
+        ]
+    ],
+    "Amerique du sud": [
+        [
+            "Copa Sudamericana",
+            "Amerique du sud. Coupe d'Amerique"
+        ]
+    ],
+    "Bulgarie": [
+        [
+            "Second Professional Football League",
+            "Bulgarie. Division 2"
+        ],
+        [
+            "A PFG",
+            "Bulgarie. Groupe A"
+        ]
+    ],
+    "Amerique": [
+        [
+            "Central American And Caribbean Games U22",
+            "Central American and Caribbean Games. U22"
+        ]
+    ],
+    "Nigeria": [
+        [
+            "National League",
+            "Nigeria. Liga Nacional"
+        ]
+    ],
+    "Roumanie": [
+        [
+            "Liga 1",
+            "Championnat de Roumanie"
+        ],
+        [
+            "Supercupa",
+            "Roumaine Super Cup "
+        ]
+    ],
+    "Malawi": [
+        [
+            "Malawi Super League",
+            "Malawi. Premiere Ligue"
+        ]
+    ],
+    "Singapour": [
+        [
+            "Singapore Sfl Division 1",
+            "Singapour. 1ere Division"
+        ],
+        [
+            "S-League",
+            "Singapour. S-Ligue"
+        ]
+    ],
+    "Brunei Darussalam": [
+        [
+            "Super League",
+            "Brunei. Superleague"
+        ]
+    ],
+    "Kirghizistan": [
+        [
+            "Top Liga Kyrgyzstan",
+            "Kirghizistan. Premiere Ligue"
+        ]
+    ],
+    "Republique Dominicaine": [
+        [
+            "Dominican Republic Championship",
+            "Premiere Ligue"
+        ]
+    ],
+    "Chine": [
+        [
+            "Super Ligue Chinoise",
+            "Chine. Ligue Super "
+        ],
+        [
+            "FA Cup",
+            "Chine. Coupe  FA"
+        ]
+    ],
+    "Perou": [
+        [
+            "Segunda Division",
+            "Perou. Division Seconde"
+        ],
+        [
+            "Reserve League",
+            "Perou. Ligue de Reserve"
+        ],
+        [
+            "Peru Championship W",
+            "Women. Peru. Campeonato Nacional"
+        ],
+        [
+            "Primera Division",
+            "Perou. Premiere Division"
+        ]
+    ],
+    "Lituanie": [
+        [
+            "Lithuania League U19",
+            "Lithuanian. U19 Championship"
+        ],
+        [
+            "II Lyga",
+            "Lituanie. 2eme Ligue"
+        ],
+        [
+            "A Lyga, Tour final",
+            "Lituanie. Lyga A"
+        ]
+    ],
+    "Australie": [
+        [
+            "NPL NSW Play Offs",
+            "Australie. NPL. NSW"
+        ],
+        [
+            "Australia. NPL Victorian. W",
+            "Women. NPL. Victoria"
+        ],
+        [
+            "Tasmania Premier League",
+            "Australie. Tasmanie Premiere Ligue"
+        ],
+        [
+            "Queensland Premier League",
+            "Premiere Ligue du Territoire de Capitale"
+        ]
+    ],
+    "Monde": [
+        [
+            "Matchs amicaux internationaux",
+            "Matches Amicaux International"
+        ],
+        [
+            "Matchs amicaux feminins",
+            "Femmes. Matches Amicaux. Equipes Nationales "
+        ],
+        [
+            "National Friendlies U21",
+            "Matches Amicaux International. U21"
+        ],
+        [
+            "Toulon Tournament Youth",
+            "Toulon Tournoi International Junior"
+        ],
+        [
+            "CONCACAF Gold Cup, Phase eliminatoire",
+			"Vainqueur Ballon dOr FIFA"
+        ]
+    ],
+    "Etats-Unis": [
+        [
+            "Major League Soccer",
+            "ETATS-UNIS. USL Pro"
+		],
+		[
+            "USL Championship",
+            "ETATS-UNIS. MLS"
+        ],
+        [
+            "Championship Women",
+            "Femmes. USA. UWS"
+        ]
+    ],
+    "Japon": [
+        [
+            "Nabisco Cup",
+            "Japon. Coupe du Nabisco"
+        ],
+        [
+            "J-League Division 2",
+            "Japon. J-Ligue. Division 2"
+        ],
+        [
+            "J-League Division 3",
+            "Japon. J-Ligue. Division 3"
+        ],
+        [
+            "Emperors Cup",
+            "Japon. Coupe dEmpereur"
+        ],
+        [
+            "J1 League",
+            "Japon. J-Ligue"
+        ]
+    ],
+    "Bresil": [
+        [
+            "Mineiro 2",
+            "Campeonato Mineiro. 2eme Division"
+        ],
+        [
+            "Brazil Campeonato Brasileiro A3 W",
+            "Women. Brazil. Seria A3"
+        ],
+		[
+            "Serie C",
+            "Bresil. Serie C"
+		],
+		[
+            "Campeonato Carioca C",
+            "Bresil. Campeonato Carioca C"
+		],
+		[
+            "Championship U20",
+            "Campionato Pernambuco U20"
+		],
+		[
+            "brazilian matches",
+            "Bresil. Serie A"
+		],
+        [
+            "Brasileiro Women",
+            "Femmes. Bresil. Serie A"
+        ],
+        [
+            "Paulista Women",
+            "Femmes. Bresil. Paulista"
+        ],
+        [
+            "Gaucho Cup",
+            "Bresil. Coupe Gaucho"
+        ]
+    ],
+    "Myanmar": [
+        [
+            "Myanmar League 2",
+            "Championnat de Myanmar. Ligue 2"
+        ],
+        [
+            "National League",
+            "Myanmar. Premiere Ligue"
+        ]
+    ],
+    "Espagne": [
+        [
+            "LaLiga2",
+            "Espagne. Division Seconde"
+        ]
+    ],
+    "Suede": [
+		[
+            "Allsvenskan W",
+            "Femmes. Suede. Allsvenskan"
+		],
+		[
+            "Division 1",
+            "Suede. Division 1"
+		],
+		[
+            "Division 2",
+            "Suede. Division 2"
+		],
+        [
+            "Coupe de Suede",
+            "Suede. Coupe de Svenska"
+        ]
+    ],
+    "Italie": [
+        [
+            "Serie C",
+            "Italy. Seria C"
+        ]
+    ],
+    "Bielorussie": [
+        [
+            "Reserve League",
+            "Bielorussie. Ligue Reserve"
+        ],
+        [
+            "Vysshaya Liga",
+            "Belarus. Major League"
+        ]
+    ],
+    "Paraguay": [
+        [
+            "Division Intermedia",
+            "Paraguay. Premiere Division B"
+        ],
+        [
+            "Division Profesional",
+            "Paraguay. Premiere Ligue"
+        ]
+    ],
+    "Chili": [
+        [
+            "Primera Division",
+            "Chili. Premiere Division"
+        ],
+        [
+            "Primera B",
+            "Chili. Primera B"
+        ],
+        [
+            "Coupe du Chili",
+            "Copa Chile"
+        ]
+    ],
+    "Norvege": [
+        [
+            "3. Division",
+            "Norvege. Division 3"
+        ],
+        [
+            "Norway Division 2",
+            "Norvege. Division 2"
+        ],
+        [
+            "Coupe NM",
+            "Norvege. OBOS-ligean"
+        ]
+    ],
+    "Uruguay": [
+        [
+            "Segunda Division",
+            "Uruguay. Segunda Division"
+        ],
+        [
+            "Segunda B Nacional",
+            "Uruguay. Segunda Division B"
+        ],
+        [
+            "Primera Division Apertura",
+            "Uruguay. Premiere Division"
+        ]
+    ],
+    "Islande": [
+        [
+            "3. delid",
+            "Islande. 3eme Division"
+        ],
+        [
+            "Urvalsdeild Women",
+            "Femmes. Islande. Premiere Ligue"
+        ],
+        [
+            "5 Deild",
+            "Iceland. 5th Division"
+        ],
+        [
+            "Urvalsdeild",
+            "Femmes. Islande. 1ere Division"
+        ]
+    ],
+    "Argentine": [
+        [
+            "Liga Profesional",
+            "Argentine. Primera Division"
+        ],
+		[
+            "Primera B Metropolitana",
+            "Argentine. Primera B Metropolitana"
+		],
+		[
+            "Primera C Metropolitana",
+            "Argentine. Primera C Metropolitana"
+		],
+		[
+            "Primera D Metropolitana",
+            "Argentine. Primera D Metropolitana"
+		],
+		[
+            "Argentina Championship. Women",
+            "Femmes. Argentine. Premiere Division"
+		],
+        [
+            "Argentine. Premiere Division",
+            "Liga Profesional"
+        ],
+        [
+            "Torneo Federal A",
+            "Argentine. Premiere Division"
+        ],
+        [
+            "Argentina Regional League",
+            "Coupe de Santa Fe"
+        ]
+    ],
+    "Colombie": [
+        [
+            "Primera A, Cloture",
+            "Colombie. Primera A"
+        ],
+        [
+            "Regional League",
+            "Colombie. Ligue Regionale"
+        ],
+        [
+            "Colombia. Categoria Primera B",
+            "Colombie. Primera B"
+        ],
+        [
+            "Liga Women",
+            "Ligue Femenina"
+        ]
+    ],
+    "Danemark": [
+        [
+            "1st Division",
+            "Danemark. Division 1"
+        ],
+        [
+            "U21 League",
+            "Danemark. Championnat U21"
+        ],
+        [
+            "Denmark Series",
+            "Denmark. 4th Division"
+        ],
+        [
+            "Cup Women",
+            "Femmes. Danemark. Coupe Landspokal"
+        ]
+    ],
+    "Egypte": [
+        [
+            "Premier League",
+            "Egypte. Premiere Ligue"
+        ],
+        [
+            "Egypt Cup",
+            "Coupe dEgypte"
+        ]
+    ],
+    "Estonie": [
+        [
+            "Coupe",
+            "Coupe d'Estonie"
+        ],
+        [
+            "Esiliiga",
+            "Estonie. 1ere Division"
+        ],
+        [
+            "Esiliiga B",
+            "Estonie. Esiliiga B."
+        ],
+        [
+            "U19 League",
+            "Estonie. Championnat U19"
+        ],
+        [
+            "Meistriliiga Women",
+            "Femmes. Estonie. Meistriliiga"
+        ],
+        [
+            "Meistriliiga",
+            "Estonia. Premium liiga"
+        ]
+    ],
+    "Equateur": [
+        [
+            "Serie A",
+            "Ecuador. Liga PRO. Primera A"
+        ],
+        [
+            "Serie B",
+            "Ecuador. Liga PRO. Primera B"
+        ]
+    ],
+    "Finlande": [
+        [
+            "Kakkonen",
+            "Finlande. Kakkonen"
+        ],
+        [
+            "Ykkonen",
+            "Championnat de Finlande. 1ere Division"
+        ],
+        [
+            "Kolmonen Divison 3",
+            "Finlande. Kolmonen"
+        ]
+    ],
+    "Algerie": [
+        [
+            "Ligue 1",
+            "Algerie. Ligue 1"
+        ],
+        [
+            "Championship U21",
+            "Algerie. U21"
+        ],
+        [
+            "Soccer Algeria Cup Women",
+            "Femmes. Coupe d'Algerie"
+        ]
+    ],
+    "Turquie": [
+        [
+            "3. Lig, Groupe 1",
+            "Turquie. TFF 3 Ligue"
+        ],
+		[
+            "Turkey Amateur League",
+            "Turkey. Amateur Regional League"
+        ]
+    ],
+    "Ukraine": [
+        [
+            "Premier League",
+            "Ukraine. Premiere Ligue"
+        ],
+        [
+            "Turkey Amateur League",
+            "Turkey. Amateur Regional League"
+        ]
+
+    ],
+    "Amerique du Nord et Centrale": [
+        [
+            "CONCACAF Gold Cup, Phase eliminatoire",
+            "Coupe dOr CONCACAF"
+        ],
+        [
+            "CONCACAF Nations League",
+            "CONCACAF Ligue des Nations"
+        ],
+        [
+            "Central American and Caribbean Games W",
+            "Femmes. Jeux dAmerique Centrale et des Caraibes"
+        ]
+    ],
+    "Asie": [
+        [
+            "CAFA Nations Cup",
+            "CAFA Nations CUP"
+        ]
+    ],
+    "Europe": [
+        [
+            "UEFA Nations League",
+            "UEFA Ligue des Nations"
+        ],
+        [
+        	"Euro U21",
+        	"Euro U21"
+        ]
+    ],
+    "Inde": [
+        [
+            "Calcutta Premier Division",
+            "Inde. Ligue de Calcutta"
+        ],
+        [
+            "Meghalaya State Liga",
+            "India. Meghalaya State Liga"
+        ],
+        [
+            "Championship Women",
+            "Femmes. Championnat Indien "
+        ]
+    ],
+    "Malaisie": [
+        [
+            "Liga M3",
+            "Malaysia. M3 league"
+        ],
+        [
+            "MFL Cup U23",
+            "Malaysia. Piala MFL U23"
+        ],
+        [
+            "Super League",
+            "Malaisie. Ligue Super"
+        ],
+		[
+			"FA Cup",
+			"Malaisie. Coupe FA"	
+		]
+    ],
+    "Mali": [
+        [
+            "Premiere Division",
+            "Championnat de Mali"
+        ]
+    ],
+    "Gambie": [
+        [
+            "Championship 2nd Division",
+            "Gambie. 2eme Division"
+        ]
+    ],
+    "Macao": [
+        [
+            "Macau Cup",
+            "Coupe Macau"
+        ],
+        [
+            "1st Division",
+            "Macao. Premiere Division"
+        ]
+    ],
+    "Allemagne": [
+        [
+            "Oberliga",
+            "Allemagne. Championnat"
+        ]
+    ],
+    "Maroc": [
+        [
+            "Botola Pro",
+            "Maroc. Ligue Super"
+        ]
+    ],
+    "Vietnam": [
+        [
+            "V-League 1",
+            "Vietnam. V-Ligue"
+        ],
+        [
+            "Second Division",
+            "Vietnam. 2eme Division"
+        ],
+        [
+            "V-League 2",
+            "Vietnam. V-Ligue 2"
+        ],
+        [
+            "National Cup",
+            "Coupe du Vietnam"
+        ]
+    ],
+    "Pologne": [
+        [
+            "3. Liga",
+            "Pologne. Division 3"
+        ],
+        [
+            "Regional Cup",
+            "Coupe Regionale de Pologne"
+        ],
+        [
+            "4 Liga",
+            "Pologne. Division 4"
+        ],
+        [
+            "Super Cup",
+            "Pologne. Division 1"
+        ]
+    ],
+    "Grece": [
+        [
+            "Greece. Football League",
+            "Greece. Gamma Ethniki"
+        ]
+    ],
+    "Afrique du Sud": [
+        [
+            "Premier League",
+            "Afrique du Sud. Premiere Ligue"
+        ],
+        [
+            "South Africa League 2 Women",
+            "Women. South Africa. Second League"
+        ]
+    ],
+    "Croatie": [
+        [
+            "HNL",
+            "Croatie. Prva HNL"
+        ],
+        [
+            "Croatian Super Cup",
+            "Croatie. Super Cup"
+        ],
+        [
+            "1. HNL League",
+            "Croatia. Prva HNL."
+        ]
+    ],
+    "Trinite-et-Tobago": [
+        [
+            "T & T Pro League",
+            "Trinidad et Tobago. Premiere Ligue"
+        ]
+    ],
+    "Pays-Bas": [
+        [
+            "Tweede Divisie",
+            "Derde Divisie"
+        ]
+    ],
+    "Irlande du Nord": [
+        [
+            "Northern Ireland League Cup W",
+            "Femmes. Irlande du Nord"
+        ],
+        [
+            "Premier League Women",
+            "Femmes. Irlande du Nord"
+        ]
+    ],
+   "Afrique": [
+        [
+            "Africa Cup of Nations",
+            "Coupe des Nations Africaines"
+        ]
+    ],
+    "Kazakhstan": [
+        [
+            "First Division",
+            "Kazakhstan. 1ere Division"
+        ],
+        [
+            "Premiere Division",
+            "Kazakhstan. Premiere Ligue"
+        ]
+    ],
+    "Irlande": [
+        [
+            "Irlande. Premiere Division",
+            "LOI 1st Division"
+        ],
+        [
+            "Irlande. 1ere Division",
+            "LOI Premier Division"
+        ],
+        [
+            "LOI Premier Division",
+            "Irlande. 1ere Division"
+        ]
+    ],
+    "Senegal": [
+        [
+            "Ligue 1",
+            "Senegal. Premiere Ligue"
+        ],
+        [
+            "Cup",
+            "Coupe du Senegal"
+        ],
+        [
+            "Ligue 2",
+            "Ligue 2 du Senegal"
+        ]
+    ],
+    "Canada": [
+        [
+            "Canadian Premier League",
+            "Canada. Premiere Ligue"
+        ]
+    ],
+    "Lettonie": [
+        [
+            "Third League",
+            "Lettonie. 3eme Division"
+        ],
+        [
+            "Cup",
+            "Coupe de Lettonie"
+        ],
+        [
+            "Virsliga",
+            "Lettonie. Virsliga"
+        ]
+    ],
+    "Venezuela": [
+        [
+            "Primera Division",
+            "Venezuela. Premiere Division"
+        ]
+    ],
+    "Jordanie": [
+        [
+            "Jordan Shield Cup",
+            "Coupe de Shield de Jordanie"
+        ],
+        [
+            "League Women",
+            "Ligue des Femmes de Jordanie"
+        ]
+    ],
+    "Ethiopie": [
+        [
+            "Premier League",
+            "Ethiopie. Premiere Ligue"
+        ]
+    ],
+    "Mauritanie": [
+        [
+            "Cup",
+            "Mauritania Cup"
+        ]
+    ],
+    "Iles Feroe": [
+        [
+            "Premier League",
+            "Premiere Ligue des Iles Feroe"
+        ],
+        [
+            "Logmanssteypid Cup",
+            "Coupe des Iles Feroe"
+        ],
+        [
+            "1. Deild",
+            "Division 1"
+        ]
+    ],
+    "Russie": [
+        [
+            "Match Premier Cup",
+            "Coupe Premier Match"
+        ]
+    ],
+    "Hong Kong": [
+        [
+            "Division 3",
+            "Hong Kong. 3eme Division"
+        ],
+        [
+            "FA Cup Junior Division",
+            "Hong Kong. Coupe Junior"
+        ]
+    ],
+    "Mongolie": [
+        [
+            "Premier League",
+            "Championnat de Mongolie"
+        ]
+    ],
+    "Mexique": [
+        [
+            "Premiere Division",
+            "Mexico. Liga MX"
+        ],
+        [
+            "Mexico Championship U23",
+            "Mexico. U23 Championship"
+        ]
+    ]
+}

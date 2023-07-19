@@ -1,0 +1,5542 @@
+{
+    "ATP - Challenger Tour - Van Mossel Dutch Open - Amersfoort": {
+        "19/07/2023": {
+            "6225577": {
+                "time": "12:00",
+                "comp1": "Guy Den Ouden",
+                "comp2": "Gauthier Onclin ",
+                "odds": {
+                    "12": {
+                        "1": "3,11",
+                        "2": "1,34"
+                    },
+                    "": {}
+                }
+            },
+            "6224779": {
+                "time": "14:00",
+                "comp1": "Maximilian Marterer",
+                "comp2": "Jakub mensik ",
+                "odds": {
+                    "12": {
+                        "1": "2,18",
+                        "2": "1,63"
+                    },
+                    "": {}
+                }
+            },
+            "6224928": {
+                "time": "18:00",
+                "comp1": "Rudolf Molleker",
+                "comp2": "Federico Delbonis ",
+                "odds": {
+                    "12": {
+                        "1": "2,21",
+                        "2": "1,62"
+                    },
+                    "": {}
+                }
+            },
+            "6225420": {
+                "time": "09:00",
+                "comp1": "Mathys Erhard",
+                "comp2": "Nicholas Ionel ",
+                "odds": {
+                    "12": {
+                        "1": "2,52",
+                        "2": "1,49"
+                    },
+                    "": {}
+                }
+            },
+            "6225865": {
+                "time": "09:00",
+                "comp1": "Facundo Diaz Acosta",
+                "comp2": "Stefano Travaglia ",
+                "odds": {
+                    "12": {
+                        "1": "1,39",
+                        "2": "2,87"
+                    },
+                    "": {}
+                }
+            },
+            "6226166": {
+                "time": "09:00",
+                "comp1": "Elmer Moller",
+                "comp2": "Titouan Droguet ",
+                "odds": {
+                    "12": {
+                        "1": "2,75",
+                        "2": "1,42"
+                    },
+                    "": {}
+                }
+            },
+            "6226575": {
+                "time": "09:00",
+                "comp1": "Jan Choinski",
+                "comp2": "Alec Deckers ",
+                "odds": {
+                    "12": {
+                        "1": "1,22",
+                        "2": "4,02"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ATP Challenger Amersfoort MD": {
+        "19/07/2023": {
+            "6211742": {
+                "time": "11:00",
+                "comp1": "Milev Y / Pontjodikromo S",
+                "comp2": "Paris/Willis ",
+                "odds": {
+                    "12": {
+                        "1": "1,83",
+                        "2": "1,83"
+                    },
+                    "": {}
+                }
+            },
+            "6222533": {
+                "time": "12:30",
+                "comp1": "Rodriguez Taverna Santiago / Uzhylovsky Vladimir",
+                "comp2": "I. Cervantes Huegun / M.vervoort ",
+                "odds": {
+                    "12": {
+                        "1": "2,25",
+                        "2": "1,60"
+                    },
+                    "": {}
+                }
+            },
+            "6209660": {
+                "time": "14:00",
+                "comp1": "J. De Loore / M. Geerts",
+                "comp2": "Dutra Da Silva/Pucinell ",
+                "odds": {
+                    "12": {
+                        "1": "1,51",
+                        "2": "2,46"
+                    },
+                    "": {}
+                }
+            },
+            "6216834": {
+                "time": "14:00",
+                "comp1": "Khoeblal E./ Verbeek D.",
+                "comp2": "Potenza Babic / Augusto Virgili ",
+                "odds": {
+                    "12": {
+                        "1": "2,78",
+                        "2": "1,41"
+                    },
+                    "": {}
+                }
+            },
+            "6211730": {
+                "time": "16:00",
+                "comp1": "Max Westphal / Theodore Winegar",
+                "comp2": "Den Ouden G / Van Sambeek F ",
+                "odds": {
+                    "12": {
+                        "1": "3,15",
+                        "2": "1,33"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ATP Challenger Tampere": {
+        "19/07/2023": {
+            "6225040": {
+                "time": "14:00",
+                "comp1": "Lukas Klein",
+                "comp2": "Vit Kopriva ",
+                "odds": {
+                    "12": {
+                        "1": "1,51",
+                        "2": "2,46"
+                    },
+                    "": {}
+                }
+            },
+            "6225041": {
+                "time": "14:30",
+                "comp1": "Daniel Michalski",
+                "comp2": "Riccardo Bonadio ",
+                "odds": {
+                    "12": {
+                        "1": "2,04",
+                        "2": "1,72"
+                    },
+                    "": {}
+                }
+            },
+            "6225043": {
+                "time": "16:30",
+                "comp1": "Zsombor Piros",
+                "comp2": "Henri Squire ",
+                "odds": {
+                    "12": {
+                        "1": "1,25",
+                        "2": "3,72"
+                    },
+                    "": {}
+                }
+            },
+            "6225768": {
+                "time": "08:00",
+                "comp1": "Nikolas Sanchez Izquierdo",
+                "comp2": "Duje Ajdukovic ",
+                "odds": {
+                    "12": {
+                        "1": "1,99",
+                        "2": "1,75"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Challenger Tampere Doubles": {
+        "19/07/2023": {
+            "6211891": {
+                "time": "13:00",
+                "comp1": "Walkow S / Oberleitner N",
+                "comp2": "Sanchez/Rincon ",
+                "odds": {
+                    "12": {
+                        "1": "1,33",
+                        "2": "3,15"
+                    },
+                    "": {}
+                }
+            },
+            "6216810": {
+                "time": "13:00",
+                "comp1": "Echargui M / Iannaccone F ",
+                "comp2": "Zukas M / Reis Da Silva ",
+                "odds": {
+                    "12": {
+                        "1": "2,95",
+                        "2": "1,37"
+                    },
+                    "": {}
+                }
+            },
+            "6208985": {
+                "time": "14:30",
+                "comp1": "Maks Kasnikowski/Dalibor Svrcina",
+                "comp2": "Orlov V. / Taylor A. ",
+                "odds": {
+                    "12": {
+                        "1": "1,75",
+                        "2": "1,99"
+                    },
+                    "": {}
+                }
+            },
+            "6211895": {
+                "time": "14:30",
+                "comp1": "Hermanni Tiainen / Jussi Tiainen",
+                "comp2": "Casanova / Lipovsek Puches ",
+                "odds": {
+                    "12": {
+                        "1": "6,77",
+                        "2": "1,08"
+                    },
+                    "": {}
+                }
+            },
+            "6208949": {
+                "time": "18:00",
+                "comp1": "Vesa Ahti /Roni Rikkonen ",
+                "comp2": "Eric Vanshelboim / Damien Wenger  ",
+                "odds": {
+                    "12": {
+                        "1": "10,80",
+                        "2": "1,02"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Women Granby, Singles Qualifying W-WITF-CAN-06A": {
+        "19/07/2023": {
+            "6217194": {
+                "time": "15:00",
+                "comp1": "Makenna Jones",
+                "comp2": "Mia Kupres ",
+                "odds": {
+                    "12": {
+                        "1": "1,16",
+                        "2": "4,57"
+                    },
+                    "": {}
+                }
+            },
+            "6222713": {
+                "time": "15:00",
+                "comp1": "Eryn Cayetano",
+                "comp2": "Jessica Failla ",
+                "odds": {
+                    "12": {
+                        "1": "2,56",
+                        "2": "1,46"
+                    },
+                    "": {}
+                }
+            },
+            "6222715": {
+                "time": "16:30",
+                "comp1": "Ava Markham",
+                "comp2": "Katrina Scott ",
+                "odds": {
+                    "12": {
+                        "1": "3,92",
+                        "2": "1,22"
+                    },
+                    "": {}
+                }
+            },
+            "6222724": {
+                "time": "16:30",
+                "comp1": "Marina Stakusic",
+                "comp2": "Ayana Akli ",
+                "odds": {
+                    "12": {
+                        "1": "1,62",
+                        "2": "2,19"
+                    },
+                    "": {}
+                }
+            },
+            "6216739": {
+                "time": "18:30",
+                "comp1": "Emina Bektas",
+                "comp2": "HU Victoria ",
+                "odds": {
+                    "12": {
+                        "1": "1,14",
+                        "2": "4,99"
+                    },
+                    "": {}
+                }
+            },
+            "6222714": {
+                "time": "18:30",
+                "comp1": "Rebecca Marino",
+                "comp2": "Rhea Verma ",
+                "odds": {
+                    "12": {
+                        "1": "1,01",
+                        "2": "11,40"
+                    },
+                    "": {}
+                }
+            },
+            "6222409": {
+                "time": "20:00",
+                "comp1": "Himeno Sakatsume",
+                "comp2": "Jennifer Brady ",
+                "odds": {
+                    "12": {
+                        "1": "3,34",
+                        "2": "1,29"
+                    },
+                    "": {}
+                }
+            },
+            "6228076": {
+                "time": "20:00",
+                "comp1": "Cadence Brace",
+                "comp2": "AP Neffa De Los Rios ",
+                "odds": {
+                    "12": {
+                        "1": "1,08",
+                        "2": "6,65"
+                    },
+                    "": {}
+                }
+            },
+            "6228074": {
+                "time": "15:00",
+                "comp1": "B. Fernandez",
+                "comp2": "Kayla Day ",
+                "odds": {
+                    "12": {
+                        "1": "9,40",
+                        "2": "1,04"
+                    },
+                    "": {}
+                }
+            },
+            "6228075": {
+                "time": "15:00",
+                "comp1": "XU Annabelle",
+                "comp2": "Katherine Sebov ",
+                "odds": {
+                    "12": {
+                        "1": "10,50",
+                        "2": "1,03"
+                    },
+                    "": {}
+                }
+            },
+            "6228694": {
+                "time": "15:00",
+                "comp1": "Victoria Mboko",
+                "comp2": "Ashlyn Krueger ",
+                "odds": {
+                    "12": {
+                        "1": "2,49",
+                        "2": "1,51"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Women Granby, Doubles W-WITF-CAN-06A": {
+        "19/07/2023": {
+            "6224907": {
+                "time": "19:00",
+                "comp1": "L. Kwong/A. Ulyashchenko",
+                "comp2": "Cross/Mboko ",
+                "odds": {
+                    "12": {
+                        "1": "2,32",
+                        "2": "1,55"
+                    },
+                    "": {}
+                }
+            },
+            "6228149": {
+                "time": "19:00",
+                "comp1": "J. Daniel / J. Failla",
+                "comp2": "S. Nicholson / O. Ogilvy ",
+                "odds": {
+                    "12": {
+                        "1": "1,07",
+                        "2": "7,03"
+                    },
+                    "": {}
+                }
+            },
+            "6227635": {
+                "time": "20:30",
+                "comp1": "C. Corley/I. Corley",
+                "comp2": "Markham A / Okalova M ",
+                "odds": {
+                    "12": {
+                        "1": "1,55",
+                        "2": "2,32"
+                    },
+                    "": {}
+                }
+            },
+            "6228127": {
+                "time": "21:30",
+                "comp1": "Jones/loeb",
+                "comp2": "Lagaev N. / Leroux R. ",
+                "odds": {
+                    "12": {
+                        "1": "1,01",
+                        "2": "16,00"
+                    },
+                    "": {}
+                }
+            },
+            "6227643": {
+                "time": "20:30",
+                "comp1": "Okamura/Sakatsume",
+                "comp2": "G. Price/K. Scott ",
+                "odds": {
+                    "12": {
+                        "1": "1,83",
+                        "2": "1,83"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    " ATP - Challenger Tour - Granby - Doubles": {
+        "19/07/2023": {
+            "6216408": {
+                "time": "18:00",
+                "comp1": "Ruben Gonzales / Alex Lawson",
+                "comp2": "Duncan/stevenson ",
+                "odds": {
+                    "12": {
+                        "1": "1,49",
+                        "2": "2,50"
+                    },
+                    "": {}
+                }
+            },
+            "6216918": {
+                "time": "19:30",
+                "comp1": "McCabe J / Rai A",
+                "comp2": "Reese H / Sitak A ",
+                "odds": {
+                    "12": {
+                        "1": "3,05",
+                        "2": "1,35"
+                    },
+                    "": {}
+                }
+            },
+            "6216439": {
+                "time": "20:30",
+                "comp1": "Ellis Blake / Puttergill Calum",
+                "comp2": "Baadi T / Muamba N ",
+                "odds": {
+                    "12": {
+                        "1": "1,17",
+                        "2": "4,60"
+                    },
+                    "": {}
+                }
+            },
+            "6228083": {
+                "time": "22:30",
+                "comp1": "Chappell N./ Markes C.",
+                "comp2": "M. Kiger/Sigouin ",
+                "odds": {
+                    "12": {
+                        "1": "2,29",
+                        "2": "1,58"
+                    },
+                    "": {}
+                }
+            },
+            "6216410": {
+                "time": "23:00",
+                "comp1": "T Schoolkate / A Walton",
+                "comp2": "Jasika Omar / Moriya Hiroki ",
+                "odds": {
+                    "12": {
+                        "1": "1,45",
+                        "2": "2,62"
+                    },
+                    "": {}
+                }
+            },
+            "6216440": {
+                "time": "23:30",
+                "comp1": "Kwiatkowski/Kudla",
+                "comp2": "Sinclair Colin / Sweeny Dane ",
+                "odds": {
+                    "12": {
+                        "1": "1,74",
+                        "2": "2,01"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ATP - Challenger Tour - Granby - Singles": {
+        "19/07/2023": {
+            "6216369": {
+                "time": "15:00",
+                "comp1": "James McCabe",
+                "comp2": "Tennys Sandgren ",
+                "odds": {
+                    "12": {
+                        "1": "2,21",
+                        "2": "1,62"
+                    },
+                    "": {}
+                }
+            },
+            "6221877": {
+                "time": "15:00",
+                "comp1": "Tung-Lin Wu",
+                "comp2": "Christian Harrison ",
+                "odds": {
+                    "12": {
+                        "1": "1,66",
+                        "2": "2,14"
+                    },
+                    "": {}
+                }
+            },
+            "6216372": {
+                "time": "16:30",
+                "comp1": "Dane Sweeny",
+                "comp2": "Giovanni Mpetshi Perricard ",
+                "odds": {
+                    "12": {
+                        "1": "2,61",
+                        "2": "1,46"
+                    },
+                    "": {}
+                }
+            },
+            "6226297": {
+                "time": "16:30",
+                "comp1": "Tristan Schoolkate",
+                "comp2": "Arthur Cazaux ",
+                "odds": {
+                    "12": {
+                        "1": "4,45",
+                        "2": "1,18"
+                    },
+                    "": {}
+                }
+            },
+            "6228173": {
+                "time": "20:30",
+                "comp1": "Maxime Janvier",
+                "comp2": "Adam Walton ",
+                "odds": {
+                    "12": {
+                        "1": "3,81",
+                        "2": "1,24"
+                    },
+                    "": {}
+                }
+            },
+            "6228193": {
+                "time": "23:00",
+                "comp1": "Alexis Galarneau",
+                "comp2": "Thai Kwiatkowski ",
+                "odds": {
+                    "12": {
+                        "1": "1,50",
+                        "2": "2,49"
+                    },
+                    "": {}
+                }
+            },
+            "6226330": {
+                "time": "15:00",
+                "comp1": "Philip Sekulic",
+                "comp2": "Denis Kudla ",
+                "odds": {
+                    "12": {
+                        "1": "3,40",
+                        "2": "1,29"
+                    },
+                    "": {}
+                }
+            },
+            "6227400": {
+                "time": "18:00",
+                "comp1": "Thanasi Kokkinakis",
+                "comp2": "James Trotter ",
+                "odds": {
+                    "12": {
+                        "1": "1,12",
+                        "2": "5,55"
+                    },
+                    "": {}
+                }
+            },
+            "6228519": {
+                "time": "18:00",
+                "comp1": "Mark Lajal",
+                "comp2": "Justin Boulais ",
+                "odds": {
+                    "12": {
+                        "1": "1,26",
+                        "2": "3,63"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Men Esch/Alzette, Doubles M-ITF-LUX-01A": {
+        "19/07/2023": {
+            "6225556": {
+                "time": "16:00",
+                "comp1": "Sakellaridis/Sakellaridis",
+                "comp2": "Compagnucci/Compagnucci ",
+                "odds": {
+                    "12": {
+                        "1": "1,86",
+                        "2": "1,86"
+                    },
+                    "": {}
+                }
+            },
+            "6226169": {
+                "time": "16:00",
+                "comp1": "Darras / Raynel",
+                "comp2": "Knaff Alex / Pichler David ",
+                "odds": {
+                    "12": {
+                        "1": "3,82",
+                        "2": "1,23"
+                    },
+                    "": {}
+                }
+            },
+            "6226170": {
+                "time": "16:00",
+                "comp1": "Monaco Antoine / Nagel Arthur",
+                "comp2": "Britto/D Santos ",
+                "odds": {
+                    "12": {
+                        "1": "2,44",
+                        "2": "1,50"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF M25 Esch/Alzette": {
+        "19/07/2023": {
+            "6221815": {
+                "time": "11:55",
+                "comp1": "Lodewijk Weststrate",
+                "comp2": "Mikalai Haliak ",
+                "odds": {
+                    "12": {
+                        "1": "1,65",
+                        "2": "2,13"
+                    },
+                    "": {}
+                }
+            },
+            "6221819": {
+                "time": "11:55",
+                "comp1": "Mayeul Darras",
+                "comp2": "Alex Knaff ",
+                "odds": {
+                    "12": {
+                        "1": "3,64",
+                        "2": "1,25"
+                    },
+                    "": {}
+                }
+            },
+            "6221817": {
+                "time": "12:00",
+                "comp1": "Guy DEN Heijer",
+                "comp2": "Jan Sebesta ",
+                "odds": {
+                    "12": {
+                        "1": "1,42",
+                        "2": "2,69"
+                    },
+                    "": {}
+                }
+            },
+            "6229176": {
+                "time": "12:00",
+                "comp1": "Tommaso Compagnucci",
+                "comp2": "Giles Kremer ",
+                "odds": {
+                    "": {}
+                }
+            },
+            "6220104": {
+                "time": "13:25",
+                "comp1": "Boris Fassbender",
+                "comp2": "Raphael Calzi ",
+                "odds": {
+                    "12": {
+                        "1": "1,22",
+                        "2": "3,92"
+                    },
+                    "": {}
+                }
+            },
+            "6227739": {
+                "time": "13:25",
+                "comp1": "Jakub Wojcik",
+                "comp2": "Marlon Vankan ",
+                "odds": {
+                    "12": {
+                        "1": "3,34",
+                        "2": "1,29"
+                    },
+                    "": {}
+                }
+            },
+            "6221814": {
+                "time": "13:30",
+                "comp1": "Joao Eduardo Schiessl",
+                "comp2": "Samuel Brosset ",
+                "odds": {
+                    "12": {
+                        "1": "1,89",
+                        "2": "1,82"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Nakhon Si Thammarat | Women | Singles": {
+        "20/07/2023": {
+            "6228829": {
+                "time": "02:00",
+                "comp1": "Anri Nagata",
+                "comp2": "Dayeon Back ",
+                "odds": {
+                    "12": {
+                        "1": "4,47",
+                        "2": "1,17"
+                    },
+                    "": {}
+                }
+            },
+            "6228839": {
+                "time": "02:00",
+                "comp1": "Patcharin Cheapchandej",
+                "comp2": "Salakthip Ounmuang ",
+                "odds": {
+                    "12": {
+                        "1": "1,17",
+                        "2": "4,47"
+                    },
+                    "": {}
+                }
+            },
+            "6228834": {
+                "time": "03:00",
+                "comp1": "Punnin Kovapitukted",
+                "comp2": "Shihomi Li Xuan Leong ",
+                "odds": {
+                    "12": {
+                        "1": "1,05",
+                        "2": "8,80"
+                    },
+                    "": {}
+                }
+            },
+            "6228838": {
+                "time": "03:00",
+                "comp1": "Honoka Kobayashi",
+                "comp2": "Ai Yamaguchi ",
+                "odds": {
+                    "12": {
+                        "1": "1,51",
+                        "2": "2,49"
+                    },
+                    "": {}
+                }
+            },
+            "6223508": {
+                "time": "04:00",
+                "comp1": "BoYoung Jeong",
+                "comp2": "Yujin Ahn ",
+                "odds": {
+                    "12": {
+                        "1": "2,24",
+                        "2": "1,59"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Nakhon Si Thammarat | Men | Single": {
+        "20/07/2023": {
+            "6228933": {
+                "time": "02:00",
+                "comp1": "Yuta Kawahashi",
+                "comp2": "Tommy Czaplinski ",
+                "odds": {
+                    "12": {
+                        "1": "1,12",
+                        "2": "5,64"
+                    },
+                    "": {}
+                }
+            },
+            "6228950": {
+                "time": "03:00",
+                "comp1": "Takuya Kumasaka",
+                "comp2": "Palaphoom Kovapitukted ",
+                "odds": {
+                    "12": {
+                        "1": "1,83",
+                        "2": "1,83"
+                    },
+                    "": {}
+                }
+            },
+            "6223580": {
+                "time": "04:00",
+                "comp1": "Yuttana Charoenphon",
+                "comp2": "Maximus Jones ",
+                "odds": {
+                    "12": {
+                        "1": "3,10",
+                        "2": "1,33"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Nakhon Si Thammarat | Women | Doubles": {
+        "20/07/2023": {
+            "6223847": {
+                "time": "04:00",
+                "comp1": "Chanta/Cheapchandej",
+                "comp2": "Yatawee Chimcham/Lunda Kumhom ",
+                "odds": {
+                    "12": {
+                        "1": "1,03",
+                        "2": "10,50"
+                    },
+                    "": {}
+                }
+            },
+            "6223926": {
+                "time": "04:00",
+                "comp1": "Nitture  Akanksha Dileep / Rao Sandeepti Singh",
+                "comp2": "A. Nagata/K. Yoshioka ",
+                "odds": {
+                    "12": {
+                        "1": "3,37",
+                        "2": "1,31"
+                    },
+                    "": {}
+                }
+            },
+            "6223925": {
+                "time": "06:00",
+                "comp1": "Kobayashi Honoka  / Smith Alicia",
+                "comp2": "Ahn Yu Jin / Sato Hikaru ",
+                "odds": {
+                    "12": {
+                        "1": "1,55",
+                        "2": "2,35"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Women Olomouc, Singles W-ITF-CZE-04A": {
+        "19/07/2023": {
+            "6221849": {
+                "time": "11:40",
+                "comp1": "Tina Nadine Smith",
+                "comp2": "Lina Gjorcheska ",
+                "odds": {
+                    "12": {
+                        "1": "3,82",
+                        "2": "1,23"
+                    },
+                    "": {}
+                }
+            },
+            "6225116": {
+                "time": "12:10",
+                "comp1": "Yuliya Hatouka",
+                "comp2": "Ivana Sebestova ",
+                "odds": {
+                    "12": {
+                        "1": "1,40",
+                        "2": "2,77"
+                    },
+                    "": {}
+                }
+            },
+            "6224751": {
+                "time": "12:20",
+                "comp1": "Anna Gabric",
+                "comp2": "Tereza Smitkova ",
+                "odds": {
+                    "12": {
+                        "1": "2,21",
+                        "2": "1,61"
+                    },
+                    "": {}
+                }
+            },
+            "6224703": {
+                "time": "12:25",
+                "comp1": "Lexie Stevens",
+                "comp2": "Sapfo Sakellaridi ",
+                "odds": {
+                    "12": {
+                        "1": "3,55",
+                        "2": "1,26"
+                    },
+                    "": {}
+                }
+            },
+            "6223776": {
+                "time": "13:55",
+                "comp1": "Nagi Hanatani",
+                "comp2": "Rosa Vicens Mas ",
+                "odds": {
+                    "12": {
+                        "1": "8,15",
+                        "2": "1,05"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Women Olomouc, Doubles W-ITF-CZE-03A": {
+        "19/07/2023": {
+            "6222133": {
+                "time": "13:30",
+                "comp1": "Laskutova K./ Herazo Gonzalez",
+                "comp2": "Kucmova A / Struplova J ",
+                "odds": {
+                    "12": {
+                        "1": "1,42",
+                        "2": "2,69"
+                    },
+                    "": {}
+                }
+            },
+            "6228033": {
+                "time": "13:30",
+                "comp1": "T. Morderger/Y. Morderger",
+                "comp2": "Pia Lovric / Eszter Meri ",
+                "odds": {
+                    "12": {
+                        "1": "1,29",
+                        "2": "3,31"
+                    },
+                    "": {}
+                }
+            },
+            "6228012": {
+                "time": "13:40",
+                "comp1": "M. Benoit / M. Mateas",
+                "comp2": "Magdalena Smekalova / Tereza Valentova ",
+                "odds": {
+                    "12": {
+                        "1": "1,19",
+                        "2": "4,18"
+                    },
+                    "": {}
+                }
+            },
+            "6226801": {
+                "time": "12:00",
+                "comp1": "A. Laboutkova/I. Sebestova",
+                "comp2": "Kulambayeva/Semenistaja ",
+                "odds": {
+                    "12": {
+                        "1": "2,24",
+                        "2": "1,59"
+                    },
+                    "": {}
+                }
+            },
+            "6226256": {
+                "time": "13:30",
+                "comp1": "S. Sakellaridi / L. Stevens",
+                "comp2": "Rocchetti/Tona ",
+                "odds": {
+                    "12": {
+                        "1": "1,23",
+                        "2": "3,96"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Masters Women": {
+        "19/07/2023": {
+            "6227073": {
+                "time": "12:20",
+                "comp1": "V. Lenskaya-Bogomolova",
+                "comp2": "Yulia Dashkevich ",
+                "odds": {
+                    "12": {
+                        "1": "2,49",
+                        "2": "1,47"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "WTA Iasi ": {
+        "19/07/2023": {
+            "6225825": {
+                "time": "11:00",
+                "comp1": "Raluca Georgiana Serban",
+                "comp2": "Danka Kovinic ",
+                "odds": {
+                    "12": {
+                        "1": "3,05",
+                        "2": "1,39"
+                    },
+                    "": {}
+                }
+            },
+            "6225824": {
+                "time": "12:30",
+                "comp1": "Laura Pigossi",
+                "comp2": "Elsa Jacquemot ",
+                "odds": {
+                    "12": {
+                        "1": "2,44",
+                        "2": "1,55"
+                    },
+                    "": {}
+                }
+            },
+            "6225115": {
+                "time": "15:00",
+                "comp1": "Simona Waltert",
+                "comp2": "P. Marcinko ",
+                "odds": {
+                    "12": {
+                        "1": "2,11",
+                        "2": "1,72"
+                    },
+                    "": {}
+                }
+            },
+            "6220794": {
+                "time": "15:30",
+                "comp1": "Anca Alexia Todoni",
+                "comp2": "Jil Teichmann ",
+                "odds": {
+                    "12": {
+                        "1": "4,85",
+                        "2": "1,17"
+                    },
+                    "": {}
+                }
+            },
+            "6219911": {
+                "time": "17:00",
+                "comp1": "Andreea Prisacariu",
+                "comp2": "Tamara Zidansek ",
+                "odds": {
+                    "12": {
+                        "1": "4,94",
+                        "2": "1,17"
+                    },
+                    "": {}
+                }
+            },
+            "6226227": {
+                "time": "08:00",
+                "comp1": "Veronika Erjavec",
+                "comp2": "Darya Astakhova ",
+                "odds": {
+                    "12": {
+                        "1": "1,64",
+                        "2": "2,24"
+                    },
+                    "": {}
+                }
+            },
+            "6226226": {
+                "time": "09:00",
+                "comp1": "Irina Camelia Begu",
+                "comp2": "Reka Luka Jani ",
+                "odds": {
+                    "12": {
+                        "1": "1,08",
+                        "2": "7,70"
+                    },
+                    "": {}
+                }
+            },
+            "6226496": {
+                "time": "09:00",
+                "comp1": "Conny Perrin",
+                "comp2": "Ana Bogdan ",
+                "odds": {
+                    "12": {
+                        "1": "7,60",
+                        "2": "1,08"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "WTA Challenger Iasi Doubles": {
+        "19/07/2023": {
+            "6227864": {
+                "time": "12:00",
+                "comp1": "V. Erjavec / D. Jakupovic",
+                "comp2": "J. Rompies/E. Yashina ",
+                "odds": {
+                    "12": {
+                        "1": "1,47",
+                        "2": "2,57"
+                    },
+                    "": {}
+                }
+            },
+            "6227853": {
+                "time": "13:30",
+                "comp1": "D.Kovinic/L.Pigossi",
+                "comp2": "Gavrila O. / Tjandramulia O. ",
+                "odds": {
+                    "12": {
+                        "1": "1,86",
+                        "2": "1,87"
+                    },
+                    "": {}
+                }
+            },
+            "6227877": {
+                "time": "09:00",
+                "comp1": "Van Der Hoek R. / Tikhonova A.",
+                "comp2": "Perrin C / Rogers A ",
+                "odds": {
+                    "12": {
+                        "1": "1,90",
+                        "2": "1,82"
+                    },
+                    "": {}
+                }
+            },
+            "6227874": {
+                "time": "10:00",
+                "comp1": "I.Bara/M.Niculescu",
+                "comp2": "Amariei I. D. / Todoni A. A ",
+                "odds": {
+                    "12": {
+                        "1": "1,17",
+                        "2": "4,64"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF M15 Monastir | Men | Doubles": {
+        "19/07/2023": {
+            "6221927": {
+                "time": "17:00",
+                "comp1": "Abderrahman / Ahouda",
+                "comp2": "Aksu/altuna ",
+                "odds": {
+                    "12": {
+                        "1": "2,08",
+                        "2": "1,68"
+                    },
+                    "": {}
+                }
+            },
+            "6222754": {
+                "time": "17:00",
+                "comp1": "Benchakroun M / Dlimi Y",
+                "comp2": "Alex Degabriele/ Kyle Gauci ",
+                "odds": {
+                    "12": {
+                        "1": "1,04",
+                        "2": "8,60"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF M15 Monastir | Men | Singles": {
+        "19/07/2023": {
+            "6221810": {
+                "time": "15:30",
+                "comp1": "Boris Butulija",
+                "comp2": "Niki Kaliyanda Poonacha ",
+                "odds": {
+                    "12": {
+                        "1": "1,98",
+                        "2": "1,74"
+                    },
+                    "": {}
+                }
+            },
+            "6221811": {
+                "time": "15:30",
+                "comp1": "Seita Watanabe",
+                "comp2": "Gilbert Soares Klier Junior ",
+                "odds": {
+                    "12": {
+                        "1": "2,85",
+                        "2": "1,38"
+                    },
+                    "": {}
+                }
+            },
+            "6228628": {
+                "time": "15:30",
+                "comp1": "Antoine Ghibaudo",
+                "comp2": "Sanjar Fayziev ",
+                "odds": {
+                    "12": {
+                        "1": "1,26",
+                        "2": "3,55"
+                    },
+                    "": {}
+                }
+            },
+            "6228063": {
+                "time": "10:00",
+                "comp1": "Kody Pearson",
+                "comp2": "Kris Van Wyk ",
+                "odds": {
+                    "12": {
+                        "1": "2,75",
+                        "2": "1,41"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF W15 Women - Monastir- Singles": {
+        "19/07/2023": {
+            "6221343": {
+                "time": "15:30",
+                "comp1": "Marie Villet",
+                "comp2": "Doga Turkmen ",
+                "odds": {
+                    "12": {
+                        "1": "1,33",
+                        "2": "3,10"
+                    },
+                    "": {}
+                }
+            },
+            "6225161": {
+                "time": "15:30",
+                "comp1": "Sophia Biolay",
+                "comp2": "Hanna Bougouffa ",
+                "odds": {
+                    "12": {
+                        "1": "1,47",
+                        "2": "2,53"
+                    },
+                    "": {}
+                }
+            },
+            "6225537": {
+                "time": "10:00",
+                "comp1": "Helena Buchwald",
+                "comp2": "Ayumi Koshiishi ",
+                "odds": {
+                    "12": {
+                        "1": "4,47",
+                        "2": "1,17"
+                    },
+                    "": {}
+                }
+            },
+            "6226234": {
+                "time": "10:00",
+                "comp1": "Virginia Ferrara",
+                "comp2": "A. Okutoyi ",
+                "odds": {
+                    "12": {
+                        "1": "1,55",
+                        "2": "2,35"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF W15 Women - Monastir - Doubles ": {
+        "19/07/2023": {
+            "6222834": {
+                "time": "15:30",
+                "comp1": "Ajimi/Berriri",
+                "comp2": "S. Drugdova / E. Shebekina ",
+                "odds": {
+                    "12": {
+                        "1": "11,20",
+                        "2": "1,01"
+                    },
+                    "": {}
+                }
+            },
+            "6222845": {
+                "time": "17:00",
+                "comp1": "S. Avataneo / De Simone",
+                "comp2": "G. Crescenzi / F. Pace ",
+                "odds": {
+                    "12": {
+                        "1": "6,76",
+                        "2": "1,07"
+                    },
+                    "": {}
+                }
+            },
+            "6222856": {
+                "time": "17:00",
+                "comp1": "A. Battesti / D. Gaillard",
+                "comp2": "Zvonaru / Popa Teiusanu ",
+                "odds": {
+                    "12": {
+                        "1": "2,94",
+                        "2": "1,36"
+                    },
+                    "": {}
+                }
+            },
+            "6226797": {
+                "time": "09:30",
+                "comp1": "Abbagnato Anastasia / Ferrara Virginia",
+                "comp2": "M. Bergen / O. Korashvili ",
+                "odds": {
+                    "12": {
+                        "1": "1,21",
+                        "2": "4,27"
+                    },
+                    "": {}
+                }
+            },
+            "6226799": {
+                "time": "09:30",
+                "comp1": "Ben Hassen / Helena Stevic",
+                "comp2": "Ella Simmons / Belle Thompson ",
+                "odds": {
+                    "12": {
+                        "1": "1,45",
+                        "2": "2,62"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ATP Tour Qualification - SkiStar Swedish Open - Bastad": {
+        "19/07/2023": {
+            "6220177": {
+                "time": "11:30",
+                "comp1": "Luca Van Assche",
+                "comp2": "Francisco Cerundolo ",
+                "odds": {
+                    "12": {
+                        "1": "3,36",
+                        "2": "1,33"
+                    },
+                    "": {}
+                }
+            },
+            "6226783": {
+                "time": "13:00",
+                "comp1": "Lorenzo Musetti",
+                "comp2": "Matteo Arnaldi ",
+                "odds": {
+                    "12": {
+                        "1": "1,39",
+                        "2": "3,01"
+                    },
+                    "": {}
+                }
+            },
+            "6226484": {
+                "time": "20:00",
+                "comp1": "Federico Coria",
+                "comp2": "Leo Borg ",
+                "odds": {
+                    "12": {
+                        "1": "1,13",
+                        "2": "6,05"
+                    },
+                    "": {}
+                }
+            },
+            "6226482": {
+                "time": "10:00",
+                "comp1": "Alexander Zverev",
+                "comp2": "Thiago Monteiro ",
+                "odds": {
+                    "12": {
+                        "1": "1,13",
+                        "2": "6,00"
+                    },
+                    "": {}
+                }
+            },
+            "6226483": {
+                "time": "10:00",
+                "comp1": "Bernabe Zapata Miralles",
+                "comp2": "Sebastian Ofner ",
+                "odds": {
+                    "12": {
+                        "1": "2,08",
+                        "2": "1,75"
+                    },
+                    "": {}
+                }
+            },
+            "6226490": {
+                "time": "10:00",
+                "comp1": "Pavel Kotov",
+                "comp2": "Andrey Rublev ",
+                "odds": {
+                    "12": {
+                        "1": "6,20",
+                        "2": "1,12"
+                    },
+                    "": {}
+                }
+            },
+            "6226492": {
+                "time": "10:00",
+                "comp1": "Casper Ruud",
+                "comp2": "Alexander Shevchenko ",
+                "odds": {
+                    "12": {
+                        "1": "1,18",
+                        "2": "4,79"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ATP Bastad Men Doubles": {
+        "19/07/2023": {
+            "6213060": {
+                "time": "11:30",
+                "comp1": "Hidalgo/Rodriguez",
+                "comp2": "Cecchinato Marco / Zapata Miralles Bernabe              ",
+                "odds": {
+                    "12": {
+                        "1": "1,06",
+                        "2": "7,55"
+                    },
+                    "": {}
+                }
+            },
+            "6224223": {
+                "time": "13:00",
+                "comp1": "F.Martin/A.Mies",
+                "comp2": "F. Cabral/R. Matos ",
+                "odds": {
+                    "12": {
+                        "1": "1,83",
+                        "2": "1,90"
+                    },
+                    "": {}
+                }
+            },
+            "6224760": {
+                "time": "10:00",
+                "comp1": "Erler/Miedler",
+                "comp2": "S.Arends/D.Pel ",
+                "odds": {
+                    "12": {
+                        "1": "1,62",
+                        "2": "2,23"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Brazzaville | Men | Singles": {
+        "19/07/2023": {
+            "6220518": {
+                "time": "11:30",
+                "comp1": "Sebastian Pino",
+                "comp2": "Matias Franco Descotte ",
+                "odds": {
+                    "": {}
+                }
+            },
+            "6220723": {
+                "time": "11:30",
+                "comp1": "Guy Orly Iradukunda",
+                "comp2": "Karim-Mohamed Maamoun ",
+                "odds": {
+                    "12": {
+                        "1": "2,19",
+                        "2": "1,62"
+                    },
+                    "": {}
+                }
+            },
+            "6220295": {
+                "time": "11:40",
+                "comp1": "Tobias Sonne",
+                "comp2": "Daniil Savelev ",
+                "odds": {
+                    "12": {
+                        "1": "3,47",
+                        "2": "1,27"
+                    },
+                    "": {}
+                }
+            },
+            "6220521": {
+                "time": "11:40",
+                "comp1": "L. Ajavon",
+                "comp2": "Pierre Delage ",
+                "odds": {
+                    "12": {
+                        "1": "5,15",
+                        "2": "1,13"
+                    },
+                    "": {}
+                }
+            },
+            "6220293": {
+                "time": "13:00",
+                "comp1": "Ishaque Eqbal",
+                "comp2": "Eytan Miessen ",
+                "odds": {
+                    "12": {
+                        "1": "1,02",
+                        "2": "9,95"
+                    },
+                    "": {}
+                }
+            },
+            "6226604": {
+                "time": "10:00",
+                "comp1": "Aziz Ouakaa",
+                "comp2": "Stefan Vujic ",
+                "odds": {
+                    "12": {
+                        "1": "1,29",
+                        "2": "3,47"
+                    },
+                    "": {}
+                }
+            },
+            "6226616": {
+                "time": "10:00",
+                "comp1": "Thomas Setodji",
+                "comp2": "Amr Elsayed ",
+                "odds": {
+                    "12": {
+                        "1": "3,72",
+                        "2": "1,26"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Brazzaville | Men | Doubles": {
+        "19/07/2023": {
+            "6225937": {
+                "time": "13:00",
+                "comp1": "Christopher Bulus / Chirag Duhan",
+                "comp2": "Mateo Barreiros Reyes / Michael Bassem Sobhy ",
+                "odds": {
+                    "12": {
+                        "1": "2,59",
+                        "2": "1,45"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Hopman Cup, Nations, Groupe A": {
+        "19/07/2023": {
+            "6227140": {
+                "time": "16:30",
+                "comp1": "Holger Vitus Nodskov Rune",
+                "comp2": "Leandro Riedi ",
+                "odds": {
+                    "12": {
+                        "1": "1,08",
+                        "2": "6,82"
+                    },
+                    "": {}
+                }
+            },
+            "6228148": {
+                "time": "15:30",
+                "comp1": "David Goffin",
+                "comp2": "Borna Coric ",
+                "odds": {
+                    "12": {
+                        "1": "2,05",
+                        "2": "1,71"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "UTR Pro Series USA ": {
+        "19/07/2023": {
+            "6228124": {
+                "time": "21:30",
+                "comp1": "Karl Lee",
+                "comp2": "Andy Nguyen ",
+                "odds": {
+                    "12": {
+                        "1": "1,26",
+                        "2": "3,72"
+                    },
+                    "": {}
+                }
+            },
+            "6228136": {
+                "time": "21:30",
+                "comp1": "Adam Chodur",
+                "comp2": "Constantinos Djakouris ",
+                "odds": {
+                    "12": {
+                        "1": "5,13",
+                        "2": "1,14"
+                    },
+                    "": {}
+                }
+            },
+            "6228169": {
+                "time": "23:00",
+                "comp1": "Donald Hall",
+                "comp2": "Krish Arora ",
+                "odds": {
+                    "12": {
+                        "1": "3,72",
+                        "2": "1,26"
+                    },
+                    "": {}
+                }
+            },
+            "6228204": {
+                "time": "23:00",
+                "comp1": "Karue Sell",
+                "comp2": "Joe Leather ",
+                "odds": {
+                    "12": {
+                        "1": "1,10",
+                        "2": "6,66"
+                    },
+                    "": {}
+                }
+            },
+            "6228209": {
+                "time": "23:00",
+                "comp1": "Lawee Sherif",
+                "comp2": "Alexander Kotzen ",
+                "odds": {
+                    "12": {
+                        "1": "8,25",
+                        "2": "1,06"
+                    },
+                    "": {}
+                }
+            },
+            "6228180": {
+                "time": "01:00",
+                "comp1": "Jeffrey Fradkin",
+                "comp2": "Tyler Davis ",
+                "odds": {
+                    "12": {
+                        "1": "1,51",
+                        "2": "2,49"
+                    },
+                    "": {}
+                }
+            },
+            "6228215": {
+                "time": "01:00",
+                "comp1": "Nicolas Cortes Campos",
+                "comp2": "Brett Brinkman ",
+                "odds": {
+                    "12": {
+                        "1": "1,63",
+                        "2": "2,18"
+                    },
+                    "": {}
+                }
+            },
+            "6228216": {
+                "time": "01:00",
+                "comp1": "AR Sau Franco",
+                "comp2": "Joshua Charlton ",
+                "odds": {
+                    "12": {
+                        "1": "3,96",
+                        "2": "1,23"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "UTR Pro Tennis Series - Women": {
+        "19/07/2023": {
+            "6227611": {
+                "time": "18:00",
+                "comp1": "M. Castillo Meza",
+                "comp2": "Aspen Schuman ",
+                "odds": {
+                    "12": {
+                        "1": "3,15",
+                        "2": "1,32"
+                    },
+                    "": {}
+                }
+            },
+            "6227612": {
+                "time": "18:00",
+                "comp1": "S. Hernandez",
+                "comp2": "Taylor Cataldi ",
+                "odds": {
+                    "12": {
+                        "1": "3,15",
+                        "2": "1,32"
+                    },
+                    "": {}
+                }
+            },
+            "6227651": {
+                "time": "20:00",
+                "comp1": "Anne-C Lutkemeyer",
+                "comp2": "Taylor Johnson ",
+                "odds": {
+                    "12": {
+                        "1": "2,44",
+                        "2": "1,50"
+                    },
+                    "": {}
+                }
+            },
+            "6227654": {
+                "time": "20:00",
+                "comp1": "YU Eleana",
+                "comp2": "Tianmei Wang ",
+                "odds": {
+                    "12": {
+                        "1": "1,41",
+                        "2": "2,73"
+                    },
+                    "": {}
+                }
+            },
+            "6227652": {
+                "time": "22:00",
+                "comp1": "Julia Ruiz",
+                "comp2": "Sloane Morra ",
+                "odds": {
+                    "12": {
+                        "1": "1,29",
+                        "2": "3,31"
+                    },
+                    "": {}
+                }
+            },
+            "6227653": {
+                "time": "22:00",
+                "comp1": "Malkia Ngounoue",
+                "comp2": "Britt Pursell ",
+                "odds": {
+                    "12": {
+                        "1": "1,19",
+                        "2": "4,18"
+                    },
+                    "": {}
+                }
+            },
+            "6227660": {
+                "time": "00:00",
+                "comp1": "Vivian Ovrootsky",
+                "comp2": "Camille Kiss ",
+                "odds": {
+                    "12": {
+                        "1": "1,29",
+                        "2": "3,47"
+                    },
+                    "": {}
+                }
+            },
+            "6228832": {
+                "time": "02:00",
+                "comp1": "Katherine Hung",
+                "comp2": "Tseng, Tzu-ying ",
+                "odds": {
+                    "12": {
+                        "1": "3,96",
+                        "2": "1,23"
+                    },
+                    "": {}
+                }
+            },
+            "6228912": {
+                "time": "02:00",
+                "comp1": "Tzeng Mu-Jie",
+                "comp2": "Yu Hsi Chen ",
+                "odds": {
+                    "12": {
+                        "1": "3,47",
+                        "2": "1,29"
+                    },
+                    "": {}
+                }
+            },
+            "6228842": {
+                "time": "03:30",
+                "comp1": "Jeng, Ju-Yun",
+                "comp2": "Pei-yu Lai ",
+                "odds": {
+                    "12": {
+                        "1": "2,24",
+                        "2": "1,59"
+                    },
+                    "": {}
+                }
+            },
+            "6228843": {
+                "time": "03:30",
+                "comp1": "Lin L",
+                "comp2": "Yu-Chin Tsai ",
+                "odds": {
+                    "12": {
+                        "1": "2,35",
+                        "2": "1,55"
+                    },
+                    "": {}
+                }
+            },
+            "6228844": {
+                "time": "03:30",
+                "comp1": "Madeleine Jessup",
+                "comp2": "Daria Lodikova ",
+                "odds": {
+                    "12": {
+                        "1": "4,27",
+                        "2": "1,21"
+                    },
+                    "": {}
+                }
+            },
+            "6228841": {
+                "time": "05:00",
+                "comp1": "Deanne Choo",
+                "comp2": "Jie Zheng ",
+                "odds": {
+                    "12": {
+                        "1": "4,47",
+                        "2": "1,17"
+                    },
+                    "": {}
+                }
+            },
+            "6228845": {
+                "time": "05:00",
+                "comp1": "Yu-Chieh Hsieh",
+                "comp2": "K. Jhang ",
+                "odds": {
+                    "12": {
+                        "1": "1,12",
+                        "2": "5,64"
+                    },
+                    "": {}
+                }
+            },
+            "6228846": {
+                "time": "05:00",
+                "comp1": "Yu-ning Tsai",
+                "comp2": "Fang An Lin ",
+                "odds": {
+                    "12": {
+                        "1": "3,72",
+                        "2": "1,26"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ATP Tour - Hall of Fame Tennis Championships - Newport": {
+        "19/07/2023": {
+            "6220620": {
+                "time": "16:00",
+                "comp1": "Jordan Thompson",
+                "comp2": "Liam Broady ",
+                "odds": {
+                    "12": {
+                        "1": "1,46",
+                        "2": "2,73"
+                    },
+                    "": {}
+                }
+            },
+            "6220980": {
+                "time": "16:00",
+                "comp1": "Rinky Hijikata",
+                "comp2": "Adrian Mannarino ",
+                "odds": {
+                    "12": {
+                        "1": "2,60",
+                        "2": "1,50"
+                    },
+                    "": {}
+                }
+            },
+            "6227144": {
+                "time": "17:30",
+                "comp1": "Gijs Brouwer",
+                "comp2": "Kevin Anderson ",
+                "odds": {
+                    "12": {
+                        "1": "1,90",
+                        "2": "1,90"
+                    },
+                    "": {}
+                }
+            },
+            "6226932": {
+                "time": "18:00",
+                "comp1": "Tommy Paul",
+                "comp2": "Ethan Quinn ",
+                "odds": {
+                    "12": {
+                        "1": "1,06",
+                        "2": "9,30"
+                    },
+                    "": {}
+                }
+            },
+            "6226999": {
+                "time": "19:00",
+                "comp1": "James Duckworth",
+                "comp2": "Alex Michelsen ",
+                "odds": {
+                    "12": {
+                        "1": "2,31",
+                        "2": "1,62"
+                    },
+                    "": {}
+                }
+            },
+            "6227300": {
+                "time": "19:30",
+                "comp1": "Matthew McDonald",
+                "comp2": "Li Tu ",
+                "odds": {
+                    "12": {
+                        "1": "1,16",
+                        "2": "5,25"
+                    },
+                    "": {}
+                }
+            },
+            "6227357": {
+                "time": "20:00",
+                "comp1": "Steve Johnson",
+                "comp2": "Ugo Humbert ",
+                "odds": {
+                    "12": {
+                        "1": "3,01",
+                        "2": "1,39"
+                    },
+                    "": {}
+                }
+            },
+            "6226755": {
+                "time": "22:00",
+                "comp1": "John Isner",
+                "comp2": "Corentin Moutet ",
+                "odds": {
+                    "12": {
+                        "1": "2,04",
+                        "2": "1,78"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Women Evansville, Doubles Qualifying W-WITF-USA-23A": {
+        "19/07/2023": {
+            "6228234": {
+                "time": "19:30",
+                "comp1": "S.Crawford / A.Kiick",
+                "comp2": "Osuigwe V / Osuigwe W ",
+                "odds": {
+                    "12": {
+                        "1": "1,50",
+                        "2": "2,44"
+                    },
+                    "": {}
+                }
+            },
+            "6227191": {
+                "time": "17:30",
+                "comp1": "Kononova M / Miroshnichenko V",
+                "comp2": "Anderson/Bolton ",
+                "odds": {
+                    "12": {
+                        "1": "2,49",
+                        "2": "1,51"
+                    },
+                    "": {}
+                }
+            },
+            "6227429": {
+                "time": "17:30",
+                "comp1": "Dalayna Hewitt /  Christina Rosca",
+                "comp2": "Madison Brengle / Hina Inoue ",
+                "odds": {
+                    "12": {
+                        "1": "1,63",
+                        "2": "2,18"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Men Champaign, Singles Qualifying M-ITF-USA-14B": {
+        "19/07/2023": {
+            "6224823": {
+                "time": "16:00",
+                "comp1": "Peter Bertran",
+                "comp2": "Jacob Brumm ",
+                "odds": {
+                    "12": {
+                        "1": "2,00",
+                        "2": "1,72"
+                    },
+                    "": {}
+                }
+            },
+            "6224824": {
+                "time": "16:00",
+                "comp1": "Sebastian Gorzny",
+                "comp2": "Makoto Ochi ",
+                "odds": {
+                    "12": {
+                        "1": "1,79",
+                        "2": "1,92"
+                    },
+                    "": {}
+                }
+            },
+            "6224829": {
+                "time": "16:00",
+                "comp1": "K. Ozolins",
+                "comp2": "Naoki Nakagawa ",
+                "odds": {
+                    "12": {
+                        "1": "2,23",
+                        "2": "1,60"
+                    },
+                    "": {}
+                }
+            },
+            "6224830": {
+                "time": "16:00",
+                "comp1": "Tyler Zink",
+                "comp2": "Cannon Kingsley ",
+                "odds": {
+                    "12": {
+                        "1": "4,03",
+                        "2": "1,21"
+                    },
+                    "": {}
+                }
+            },
+            "6224821": {
+                "time": "17:30",
+                "comp1": "Evgeny Donskoy",
+                "comp2": "Hunter Heck ",
+                "odds": {
+                    "12": {
+                        "1": "1,13",
+                        "2": "5,26"
+                    },
+                    "": {}
+                }
+            },
+            "6227729": {
+                "time": "17:30",
+                "comp1": "Noah Schachter",
+                "comp2": "Vito Tonejc ",
+                "odds": {
+                    "12": {
+                        "1": "1,49",
+                        "2": "2,47"
+                    },
+                    "": {}
+                }
+            },
+            "6227730": {
+                "time": "17:30",
+                "comp1": "Perry Gregg",
+                "comp2": "Ozan Baris ",
+                "odds": {
+                    "12": {
+                        "1": "3,31",
+                        "2": "1,29"
+                    },
+                    "": {}
+                }
+            },
+            "6227731": {
+                "time": "17:30",
+                "comp1": "Yuki Mochiduki",
+                "comp2": "Matt Hulme ",
+                "odds": {
+                    "12": {
+                        "1": "1,03",
+                        "2": "9,15"
+                    },
+                    "": {}
+                }
+            },
+            "6224805": {
+                "time": "19:00",
+                "comp1": "Jack Anthrop",
+                "comp2": "Nishesh Basavareddy ",
+                "odds": {
+                    "12": {
+                        "1": "3,34",
+                        "2": "1,29"
+                    },
+                    "": {}
+                }
+            },
+            "6224822": {
+                "time": "19:00",
+                "comp1": "Murphy Cassone",
+                "comp2": "Kenta Miyoshi ",
+                "odds": {
+                    "12": {
+                        "1": "1,07",
+                        "2": "6,97"
+                    },
+                    "": {}
+                }
+            },
+            "6227759": {
+                "time": "19:00",
+                "comp1": "Pierce Rollins",
+                "comp2": "Cash Hanzlik ",
+                "odds": {
+                    "12": {
+                        "1": "2,24",
+                        "2": "1,59"
+                    },
+                    "": {}
+                }
+            },
+            "6227760": {
+                "time": "19:00",
+                "comp1": "Andrew Fenty",
+                "comp2": "Alexander Bernard ",
+                "odds": {
+                    "12": {
+                        "1": "1,45",
+                        "2": "2,59"
+                    },
+                    "": {}
+                }
+            },
+            "6224825": {
+                "time": "20:30",
+                "comp1": " Edward Winter",
+                "comp2": "Samir Banerjee ",
+                "odds": {
+                    "12": {
+                        "1": "1,67",
+                        "2": "2,02"
+                    },
+                    "": {}
+                }
+            },
+            "6224826": {
+                "time": "20:30",
+                "comp1": "Aidan Kim",
+                "comp2": "Aidan Mchugh ",
+                "odds": {
+                    "12": {
+                        "1": "3,34",
+                        "2": "1,29"
+                    },
+                    "": {}
+                }
+            },
+            "6227796": {
+                "time": "20:30",
+                "comp1": "Trey Hilderbrand",
+                "comp2": "Alexander Petrov ",
+                "odds": {
+                    "12": {
+                        "1": "2,81",
+                        "2": "1,39"
+                    },
+                    "": {}
+                }
+            },
+            "6227797": {
+                "time": "20:30",
+                "comp1": "C. Huang",
+                "comp2": "Shunsuke Mitsui ",
+                "odds": {
+                    "12": {
+                        "1": "3,73",
+                        "2": "1,24"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Men Rochester, Singles Qualifying M-ITF-USA-19A": {
+        "19/07/2023": {
+            "6225089": {
+                "time": "15:30",
+                "comp1": "Ignacio Monzon",
+                "comp2": "Thomas Brown ",
+                "odds": {
+                    "12": {
+                        "1": "1,36",
+                        "2": "2,94"
+                    },
+                    "": {}
+                }
+            },
+            "6228290": {
+                "time": "15:30",
+                "comp1": "Alex Bancila",
+                "comp2": "Darian King ",
+                "odds": {
+                    "12": {
+                        "1": "6,22",
+                        "2": "1,09"
+                    },
+                    "": {}
+                }
+            },
+            "6228293": {
+                "time": "15:30",
+                "comp1": "Ryan Dickerson",
+                "comp2": "T. Stice ",
+                "odds": {
+                    "12": {
+                        "1": "2,00",
+                        "2": "1,72"
+                    },
+                    "": {}
+                }
+            },
+            "6225087": {
+                "time": "17:00",
+                "comp1": "Jcm Aguilar",
+                "comp2": "Jonathan Sorbo ",
+                "odds": {
+                    "12": {
+                        "1": "1,02",
+                        "2": "9,70"
+                    },
+                    "": {}
+                }
+            },
+            "6225090": {
+                "time": "17:00",
+                "comp1": "Jesse Flores",
+                "comp2": "Emmett Ward ",
+                "odds": {
+                    "12": {
+                        "1": "1,38",
+                        "2": "2,85"
+                    },
+                    "": {}
+                }
+            },
+            "6228291": {
+                "time": "17:00",
+                "comp1": "Tommaso Carnevale Miino",
+                "comp2": "Evan Bynoe ",
+                "odds": {
+                    "12": {
+                        "1": "2,00",
+                        "2": "1,72"
+                    },
+                    "": {}
+                }
+            },
+            "6228292": {
+                "time": "17:00",
+                "comp1": "Juan Sebastian Osorio",
+                "comp2": "DC Ignat ",
+                "odds": {
+                    "12": {
+                        "1": "1,43",
+                        "2": "2,66"
+                    },
+                    "": {}
+                }
+            },
+            "6225088": {
+                "time": "19:00",
+                "comp1": "Patrick Maloney",
+                "comp2": "Henrik Wiersholm ",
+                "odds": {
+                    "12": {
+                        "1": "1,29",
+                        "2": "3,34"
+                    },
+                    "": {}
+                }
+            },
+            "6228294": {
+                "time": "19:00",
+                "comp1": "Benjamin George",
+                "comp2": "Kosuke Ogura ",
+                "odds": {
+                    "12": {
+                        "1": "2,00",
+                        "2": "1,72"
+                    },
+                    "": {}
+                }
+            },
+            "6228385": {
+                "time": "19:00",
+                "comp1": "Connor Krug",
+                "comp2": "AJ Catanzariti ",
+                "odds": {
+                    "12": {
+                        "1": "1,50",
+                        "2": "2,44"
+                    },
+                    "": {}
+                }
+            },
+            "6228295": {
+                "time": "23:00",
+                "comp1": "Huzaifa Abdul Rehman",
+                "comp2": "Nicholas Heng ",
+                "odds": {
+                    "12": {
+                        "1": "2,19",
+                        "2": "1,62"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Men Rochester, Doubles M-ITF-USA-19A": {
+        "19/07/2023": {
+            "6225170": {
+                "time": "21:00",
+                "comp1": "Juan Carlos Aguilar / Ignacio Monzon",
+                "comp2": "Darian King / Justin Roberts ",
+                "odds": {
+                    "12": {
+                        "1": "1,32",
+                        "2": "3,15"
+                    },
+                    "": {}
+                }
+            },
+            "6225171": {
+                "time": "21:00",
+                "comp1": "E. Bynoe / L. Vithoontien",
+                "comp2": "Jesse Flores / Peter Kuszynski ",
+                "odds": {
+                    "12": {
+                        "1": "2,32",
+                        "2": "1,55"
+                    },
+                    "": {}
+                }
+            },
+            "6228356": {
+                "time": "21:00",
+                "comp1": "T. Brown / J.S. Osorio",
+                "comp2": "Bancila/Grant ",
+                "odds": {
+                    "12": {
+                        "1": "2,00",
+                        "2": "1,72"
+                    },
+                    "": {}
+                }
+            },
+            "6228432": {
+                "time": "23:00",
+                "comp1": "R. Tosetto / K. Vakili",
+                "comp2": "Catanzariti/Maginley ",
+                "odds": {
+                    "12": {
+                        "1": "2,94",
+                        "2": "1,36"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ATP Newport Doubles": {
+        "19/07/2023": {
+            "6216737": {
+                "time": "17:00",
+                "comp1": "Chandrasekar/Prashanth",
+                "comp2": "Julien Cash / Maxime Cressy ",
+                "odds": {
+                    "12": {
+                        "1": "3,48",
+                        "2": "1,28"
+                    },
+                    "": {}
+                }
+            },
+            "6210209": {
+                "time": "20:00",
+                "comp1": "Chung Y / Kovacevic A",
+                "comp2": "Hijikata/Stalder ",
+                "odds": {
+                    "12": {
+                        "1": "2,64",
+                        "2": "1,45"
+                    },
+                    "": {}
+                }
+            },
+            "6226368": {
+                "time": "16:00",
+                "comp1": "Bhambri Y / Myneni S",
+                "comp2": "Galloway/Smith ",
+                "odds": {
+                    "12": {
+                        "1": "1,94",
+                        "2": "1,80"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Men Champaign, IL, Doubles M-ITF-USA-10A": {
+        "20/07/2023": {
+            "6227226": {
+                "time": "16:00",
+                "comp1": "Jack Anthrop / Cannon Kingsley",
+                "comp2": "Naoki Nakagawa / Makoto Ochi ",
+                "odds": {
+                    "12": {
+                        "1": "1,80",
+                        "2": "1,90"
+                    },
+                    "": {}
+                }
+            },
+            "6228054": {
+                "time": "16:00",
+                "comp1": "Harper P / Mitsui S",
+                "comp2": "Mochizuki S / Yuzuki T ",
+                "odds": {
+                    "12": {
+                        "1": "1,63",
+                        "2": "2,18"
+                    },
+                    "": {}
+                }
+            },
+            "6227374": {
+                "time": "17:00",
+                "comp1": "Cash Hanzlik / Pierce Brazil Rollins",
+                "comp2": "Hilderbrand/Schachter ",
+                "odds": {
+                    "12": {
+                        "1": "2,98",
+                        "2": "1,37"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Women Evansville, Singles W-C10-USA-06A": {
+        "19/07/2023": {
+            "6222401": {
+                "time": "15:00",
+                "comp1": "Haru Inoue",
+                "comp2": "Nefisa Berberovic ",
+                "odds": {
+                    "12": {
+                        "1": "2,26",
+                        "2": "1,58"
+                    },
+                    "": {}
+                }
+            },
+            "6222403": {
+                "time": "15:00",
+                "comp1": "Fiona Crawley",
+                "comp2": "Robin Anderson ",
+                "odds": {
+                    "12": {
+                        "1": "1,68",
+                        "2": "2,08"
+                    },
+                    "": {}
+                }
+            },
+            "6222421": {
+                "time": "15:00",
+                "comp1": "Dalayna Hewitt",
+                "comp2": "Sachia Vickery ",
+                "odds": {
+                    "12": {
+                        "1": "5,79",
+                        "2": "1,10"
+                    },
+                    "": {}
+                }
+            },
+            "6227456": {
+                "time": "15:00",
+                "comp1": "Katarina Kozarov",
+                "comp2": "Varvara Lepchenko ",
+                "odds": {
+                    "12": {
+                        "1": "2,47",
+                        "2": "1,49"
+                    },
+                    "": {}
+                }
+            },
+            "6222419": {
+                "time": "16:30",
+                "comp1": "Hanna Chang",
+                "comp2": "Sabine Lisicki ",
+                "odds": {
+                    "12": {
+                        "1": "3,28",
+                        "2": "1,30"
+                    },
+                    "": {}
+                }
+            },
+            "6222420": {
+                "time": "16:30",
+                "comp1": "Madison Sieg",
+                "comp2": "Allie Kiick ",
+                "odds": {
+                    "12": {
+                        "1": "1,44",
+                        "2": "2,62"
+                    },
+                    "": {}
+                }
+            },
+            "6227457": {
+                "time": "16:30",
+                "comp1": "Whitney Osuigwe",
+                "comp2": "Victoria C Osuigwe ",
+                "odds": {
+                    "12": {
+                        "1": "1,63",
+                        "2": "2,17"
+                    },
+                    "": {}
+                }
+            },
+            "6227470": {
+                "time": "16:30",
+                "comp1": "Samantha Crawford",
+                "comp2": "Mccartney Kessler ",
+                "odds": {
+                    "12": {
+                        "1": "2,42",
+                        "2": "1,51"
+                    },
+                    "": {}
+                }
+            },
+            "6222404": {
+                "time": "18:00",
+                "comp1": "Madison Brengle",
+                "comp2": "Grace Min ",
+                "odds": {
+                    "12": {
+                        "1": "1,19",
+                        "2": "4,22"
+                    },
+                    "": {}
+                }
+            },
+            "6227475": {
+                "time": "18:00",
+                "comp1": "Sahaja Yamalapalli",
+                "comp2": "Christina Rosca ",
+                "odds": {
+                    "12": {
+                        "1": "1,29",
+                        "2": "3,34"
+                    },
+                    "": {}
+                }
+            },
+            "6227476": {
+                "time": "18:00",
+                "comp1": "Yulia Starodubtsewa",
+                "comp2": "Chloe Beck ",
+                "odds": {
+                    "12": {
+                        "1": "1,44",
+                        "2": "2,62"
+                    },
+                    "": {}
+                }
+            },
+            "6227511": {
+                "time": "18:00",
+                "comp1": "Kylie Mckenzie",
+                "comp2": "Raveena Kingsley ",
+                "odds": {
+                    "12": {
+                        "1": "2,90",
+                        "2": "1,37"
+                    },
+                    "": {}
+                }
+            },
+            "6227637": {
+                "time": "19:30",
+                "comp1": "Ellie Myers",
+                "comp2": "Maribella Zamarripa ",
+                "odds": {
+                    "12": {
+                        "1": "7,70",
+                        "2": "1,05"
+                    },
+                    "": {}
+                }
+            },
+            "6227639": {
+                "time": "19:30",
+                "comp1": "M. Navarro Oliva",
+                "comp2": "Karman Kaur Thandi ",
+                "odds": {
+                    "12": {
+                        "1": "5,20",
+                        "2": "1,13"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Fuzhou | Singles | Men": {
+        "19/07/2023": {
+            "6223590": {
+                "time": "12:05",
+                "comp1": "Luca Castelnuovo",
+                "comp2": "Zhan Zheng ",
+                "odds": {
+                    "12": {
+                        "1": "1,19",
+                        "2": "4,27"
+                    },
+                    "": {}
+                }
+            },
+            "6223533": {
+                "time": "12:20",
+                "comp1": "Mattias Southcombe",
+                "comp2": "Jianhao Sheng ",
+                "odds": {
+                    "12": {
+                        "1": "1,12",
+                        "2": "5,31"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Men Roehampton, Singles M-ITF-GBR-05A": {
+        "19/07/2023": {
+            "6225610": {
+                "time": "11:00",
+                "comp1": "M. Hurrion",
+                "comp2": "Paul Jubb ",
+                "odds": {
+                    "12": {
+                        "1": "3,92",
+                        "2": "1,22"
+                    },
+                    "": {}
+                }
+            },
+            "6226731": {
+                "time": "11:00",
+                "comp1": "William Jansen",
+                "comp2": "Daniel Cox ",
+                "odds": {
+                    "12": {
+                        "1": "5,25",
+                        "2": "1,13"
+                    },
+                    "": {}
+                }
+            },
+            "6226745": {
+                "time": "11:00",
+                "comp1": "Charles Broom",
+                "comp2": "Arthur Bouquier ",
+                "odds": {
+                    "12": {
+                        "1": "1,25",
+                        "2": "3,64"
+                    },
+                    "": {}
+                }
+            },
+            "6226775": {
+                "time": "12:00",
+                "comp1": "Johannus Monday",
+                "comp2": "Devin Badenhorst ",
+                "odds": {
+                    "12": {
+                        "1": "1,26",
+                        "2": "3,55"
+                    },
+                    "": {}
+                }
+            },
+            "6226772": {
+                "time": "12:30",
+                "comp1": "Emile Hudd",
+                "comp2": "Luke Saville ",
+                "odds": {
+                    "12": {
+                        "1": "5,15",
+                        "2": "1,13"
+                    },
+                    "": {}
+                }
+            },
+            "6226773": {
+                "time": "12:30",
+                "comp1": "Federico Bondioli",
+                "comp2": "Ryan James Storrie ",
+                "odds": {
+                    "12": {
+                        "1": "2,66",
+                        "2": "1,43"
+                    },
+                    "": {}
+                }
+            },
+            "6229198": {
+                "time": "12:30",
+                "comp1": "Billy Harris",
+                "comp2": "Patrick Brady ",
+                "odds": {
+                    "12": {
+                        "1": "1,23",
+                        "2": "3,82"
+                    },
+                    "": {}
+                }
+            },
+            "6225609": {
+                "time": "14:00",
+                "comp1": "Mark Whitehouse",
+                "comp2": "Joshua Goodger ",
+                "odds": {
+                    "12": {
+                        "1": "1,34",
+                        "2": "3,04"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Roehampton, Doubles M-ITF-GBR-05A": {
+        "19/07/2023": {
+            "6226887": {
+                "time": "15:30",
+                "comp1": "Blaydes/Blaydes",
+                "comp2": "E. Hudd/j. Monday ",
+                "odds": {
+                    "12": {
+                        "1": "4,18",
+                        "2": "1,19"
+                    },
+                    "": {}
+                }
+            },
+            "6226888": {
+                "time": "15:30",
+                "comp1": "Broom/Jones",
+                "comp2": "W. Jansen/R. J. Storie ",
+                "odds": {
+                    "12": {
+                        "1": "1,68",
+                        "2": "2,08"
+                    },
+                    "": {}
+                }
+            },
+            "6226889": {
+                "time": "15:30",
+                "comp1": "J Davis / M Hurrion",
+                "comp2": "Jones/Martin ",
+                "odds": {
+                    "12": {
+                        "1": "1,50",
+                        "2": "2,44"
+                    },
+                    "": {}
+                }
+            },
+            "6226890": {
+                "time": "15:30",
+                "comp1": "P. Brady/O. Weightman",
+                "comp2": "A. Bouquier / F. Musitelli ",
+                "odds": {
+                    "12": {
+                        "1": "2,32",
+                        "2": "1,55"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Roehampton, Singles W-ITF-GBR-01C": {
+        "19/07/2023": {
+            "6225530": {
+                "time": "11:00",
+                "comp1": "Amandine Monnot",
+                "comp2": "Amarni Banks ",
+                "odds": {
+                    "12": {
+                        "1": "2,66",
+                        "2": "1,43"
+                    },
+                    "": {}
+                }
+            },
+            "6225532": {
+                "time": "11:00",
+                "comp1": "Joanna Garland",
+                "comp2": "Katy Dunne ",
+                "odds": {
+                    "12": {
+                        "1": "1,68",
+                        "2": "2,07"
+                    },
+                    "": {}
+                }
+            },
+            "6226442": {
+                "time": "12:00",
+                "comp1": "J. Defalco",
+                "comp2": "Naho Sato ",
+                "odds": {
+                    "12": {
+                        "1": "2,73",
+                        "2": "1,41"
+                    },
+                    "": {}
+                }
+            },
+            "6226440": {
+                "time": "12:30",
+                "comp1": "Alice Gillan",
+                "comp2": "Ella Mcdonald ",
+                "odds": {
+                    "12": {
+                        "1": "1,71",
+                        "2": "2,02"
+                    },
+                    "": {}
+                }
+            },
+            "6226441": {
+                "time": "12:30",
+                "comp1": "Destanee Aiava",
+                "comp2": "Alexandra Vecic ",
+                "odds": {
+                    "12": {
+                        "1": "1,95",
+                        "2": "1,76"
+                    },
+                    "": {}
+                }
+            },
+            "6225531": {
+                "time": "14:00",
+                "comp1": "Anna Brogan",
+                "comp2": "Ranah Akua Stoiber ",
+                "odds": {
+                    "12": {
+                        "1": "1,23",
+                        "2": "3,80"
+                    },
+                    "": {}
+                }
+            },
+            "6226443": {
+                "time": "14:00",
+                "comp1": "Katarina Stresnakova",
+                "comp2": "Asia Muhammad ",
+                "odds": {
+                    "12": {
+                        "1": "3,47",
+                        "2": "1,27"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Roehampton WD": {
+        "19/07/2023": {
+            "6226965": {
+                "time": "13:30",
+                "comp1": "B. Black / J. Ogunwale",
+                "comp2": "E. Adeshina / A. Reayer ",
+                "odds": {
+                    "12": {
+                        "1": "3,82",
+                        "2": "1,23"
+                    },
+                    "": {}
+                }
+            },
+            "6226966": {
+                "time": "15:30",
+                "comp1": "Davis Annabelle / Davis Francesca",
+                "comp2": "R. Bhosale / S. B. Gray ",
+                "odds": {
+                    "12": {
+                        "1": "10,00",
+                        "2": "1,02"
+                    },
+                    "": {}
+                }
+            },
+            "6226967": {
+                "time": "15:30",
+                "comp1": "Aiava D. / Gibson T.",
+                "comp2": "Brooks Madeleine / Hutchinson Holly ",
+                "odds": {
+                    "12": {
+                        "1": "1,25",
+                        "2": "3,64"
+                    },
+                    "": {}
+                }
+            },
+            "6226968": {
+                "time": "15:30",
+                "comp1": "E Mcdonald / G Roach",
+                "comp2": "Pethybridge / A. Popescu ",
+                "odds": {
+                    "12": {
+                        "1": "1,53",
+                        "2": "2,37"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Men Telfs, Singles M-ITF-AUT-01A": {
+        "19/07/2023": {
+            "6221836": {
+                "time": "11:00",
+                "comp1": "Daniel Siniakov",
+                "comp2": "Timofey Stepanov ",
+                "odds": {
+                    "12": {
+                        "1": "1,59",
+                        "2": "2,24"
+                    },
+                    "": {}
+                }
+            },
+            "6221837": {
+                "time": "11:00",
+                "comp1": "Francesco Ferrari",
+                "comp2": "Peter Goldsteiner ",
+                "odds": {
+                    "12": {
+                        "1": "1,68",
+                        "2": "2,09"
+                    },
+                    "": {}
+                }
+            },
+            "6221821": {
+                "time": "14:00",
+                "comp1": "Lukas Rosol",
+                "comp2": "Edoardo Cherie Ligniere ",
+                "odds": {
+                    "": {}
+                }
+            },
+            "6221830": {
+                "time": "14:00",
+                "comp1": "Tomas Lanik",
+                "comp2": "Martin Krumich ",
+                "odds": {
+                    "12": {
+                        "1": "3,92",
+                        "2": "1,22"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Men Telfs, Doubles M-ITF-AUT-01A": {
+        "19/07/2023": {
+            "6224134": {
+                "time": "14:00",
+                "comp1": "B Gadamauri / C Maguire",
+                "comp2": "Schnaitter J / Wallner M ",
+                "odds": {
+                    "12": {
+                        "1": "4,47",
+                        "2": "1,17"
+                    },
+                    "": {}
+                }
+            },
+            "6224240": {
+                "time": "14:00",
+                "comp1": "Dennis Dragomirov / Niklas Waldner",
+                "comp2": "Peter Heller / Kai Wehnelt ",
+                "odds": {
+                    "12": {
+                        "1": "9,25",
+                        "2": "1,03"
+                    },
+                    "": {}
+                }
+            },
+            "6224234": {
+                "time": "15:30",
+                "comp1": "Michael Gloeckler / Peter Goldsteiner",
+                "comp2": "Huber / Kahoun ",
+                "odds": {
+                    "12": {
+                        "1": "2,35",
+                        "2": "1,54"
+                    },
+                    "": {}
+                }
+            },
+            "6224250": {
+                "time": "15:30",
+                "comp1": "Milos Karol / Sandro Kopp",
+                "comp2": "Horak/Siniakov ",
+                "odds": {
+                    "12": {
+                        "1": "1,29",
+                        "2": "3,34"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "WTA Challenger Tour -  Budapest (HUN) - Doubles": {
+        "19/07/2023": {
+            "6216774": {
+                "time": "11:30",
+                "comp1": "Christie F / Collins A.",
+                "comp2": "Podoroska N. / Rakhimova K. ",
+                "odds": {
+                    "12": {
+                        "1": "2,53",
+                        "2": "1,49"
+                    },
+                    "": {}
+                }
+            },
+            "6215561": {
+                "time": "12:00",
+                "comp1": "A.Danilina/U.Eikeri",
+                "comp2": "Fomina-Klotz/Strakhova  ",
+                "odds": {
+                    "12": {
+                        "1": "1,23",
+                        "2": "3,94"
+                    },
+                    "": {}
+                }
+            },
+            "6226594": {
+                "time": "13:00",
+                "comp1": "Volodko K. / Voracova R.",
+                "comp2": "Ellen Perez/Daria Saville ",
+                "odds": {
+                    "12": {
+                        "1": "2,88",
+                        "2": "1,39"
+                    },
+                    "": {}
+                }
+            },
+            "6216158": {
+                "time": "14:30",
+                "comp1": "Nagy/Toth",
+                "comp2": "M. Kolodziejova/J. Maleckova ",
+                "odds": {
+                    "12": {
+                        "1": "3,94",
+                        "2": "1,23"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "WTA Budapest": {
+        "19/07/2023": {
+            "6224456": {
+                "time": "11:30",
+                "comp1": "Ak Schmiedlova",
+                "comp2": "Tamara Korpatsch ",
+                "odds": {
+                    "12": {
+                        "1": "1,70",
+                        "2": "2,16"
+                    },
+                    "": {}
+                }
+            },
+            "6225338": {
+                "time": "13:00",
+                "comp1": "Tatjana Maria",
+                "comp2": "Fanni Stollar ",
+                "odds": {
+                    "12": {
+                        "1": "1,18",
+                        "2": "4,96"
+                    },
+                    "": {}
+                }
+            },
+            "6225997": {
+                "time": "14:30",
+                "comp1": "Claire Liu",
+                "comp2": "Yulia Putintseva ",
+                "odds": {
+                    "12": {
+                        "1": "2,37",
+                        "2": "1,59"
+                    },
+                    "": {}
+                }
+            },
+            "6225337": {
+                "time": "09:00",
+                "comp1": "Diana Shnaider",
+                "comp2": "Maria Timofeeva ",
+                "odds": {
+                    "12": {
+                        "1": "1,25",
+                        "2": "4,00"
+                    },
+                    "": {}
+                }
+            },
+            "6226053": {
+                "time": "09:00",
+                "comp1": "Anna Bondar",
+                "comp2": "Elina Avanesyan ",
+                "odds": {
+                    "12": {
+                        "1": "1,90",
+                        "2": "1,90"
+                    },
+                    "": {}
+                }
+            },
+            "6226187": {
+                "time": "09:00",
+                "comp1": "Nadia Podoroska",
+                "comp2": "Anna Siskova ",
+                "odds": {
+                    "12": {
+                        "1": "1,11",
+                        "2": "6,40"
+                    },
+                    "": {}
+                }
+            },
+            "6226275": {
+                "time": "09:00",
+                "comp1": "Kateryna Baindl",
+                "comp2": "Amarissa K Toth ",
+                "odds": {
+                    "12": {
+                        "1": "1,18",
+                        "2": "4,86"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ATP Tour Qualification - Swiss Open - Gstaad": {
+        "19/07/2023": {
+            "6219603": {
+                "time": "11:00",
+                "comp1": "Dominic Thiem",
+                "comp2": "Hamad Medjedovic ",
+                "odds": {
+                    "12": {
+                        "1": "1,55",
+                        "2": "2,46"
+                    },
+                    "": {}
+                }
+            },
+            "6218312": {
+                "time": "14:00",
+                "comp1": "Yannick Hanfmann",
+                "comp2": "Daniel Altmaier ",
+                "odds": {
+                    "12": {
+                        "1": "1,60",
+                        "2": "2,35"
+                    },
+                    "": {}
+                }
+            },
+            "6225117": {
+                "time": "16:30",
+                "comp1": "D. Stricker",
+                "comp2": "Miomir Kecmanovic ",
+                "odds": {
+                    "12": {
+                        "1": "1,80",
+                        "2": "2,01"
+                    },
+                    "": {}
+                }
+            },
+            "6223934": {
+                "time": "09:00",
+                "comp1": "Roberto Bautista Agut",
+                "comp2": "Pedro Cachin ",
+                "odds": {
+                    "12": {
+                        "1": "1,55",
+                        "2": "2,47"
+                    },
+                    "": {}
+                }
+            },
+            "6224702": {
+                "time": "09:00",
+                "comp1": "Juan Pablo Patino-Samudio",
+                "comp2": "Facundo Bagnis ",
+                "odds": {
+                    "12": {
+                        "1": "1,48",
+                        "2": "2,66"
+                    },
+                    "": {}
+                }
+            },
+            "6225778": {
+                "time": "09:00",
+                "comp1": "Ramos Albert",
+                "comp2": "Lorenzo Sonego ",
+                "odds": {
+                    "12": {
+                        "1": "3,26",
+                        "2": "1,34"
+                    },
+                    "": {}
+                }
+            },
+            "6226040": {
+                "time": "09:00",
+                "comp1": "Jaume Munar",
+                "comp2": "Stanislas Wawrinka ",
+                "odds": {
+                    "12": {
+                        "1": "2,73",
+                        "2": "1,46"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Gstaad, Suisse, Doubles": {
+        "19/07/2023": {
+            "6212047": {
+                "time": "11:30",
+                "comp1": "Rinderknech A / Verbeek S",
+                "comp2": "olivetti/vega hernandez ",
+                "odds": {
+                    "12": {
+                        "1": "2,49",
+                        "2": "1,50"
+                    },
+                    "": {}
+                }
+            },
+            "6209056": {
+                "time": "12:30",
+                "comp1": "M. Demoliner/M. Middelkoop",
+                "comp2": "M. Brunold/K. Feldbausch ",
+                "odds": {
+                    "12": {
+                        "1": "1,11",
+                        "2": "5,71"
+                    },
+                    "": {}
+                }
+            },
+            "6211500": {
+                "time": "14:00",
+                "comp1": "R.Arneodo/T.Weissborn",
+                "comp2": "B. Arias/F. Zeballos ",
+                "odds": {
+                    "12": {
+                        "1": "1,37",
+                        "2": "2,95"
+                    },
+                    "": {}
+                }
+            },
+            "6225797": {
+                "time": "15:30",
+                "comp1": "Stricker D./wawrinka S.",
+                "comp2": "Barrientos/Cabal ",
+                "odds": {
+                    "12": {
+                        "1": "2,17",
+                        "2": "1,65"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Women Vitoria-Gasteiz, Singles W-ITF-ESP-14A": {
+        "19/07/2023": {
+            "6225101": {
+                "time": "11:10",
+                "comp1": "Jodie Anna Burrage",
+                "comp2": "Emilie Lindh Gallagher ",
+                "odds": {
+                    "12": {
+                        "1": "1,04",
+                        "2": "8,25"
+                    },
+                    "": {}
+                }
+            },
+            "6225100": {
+                "time": "11:20",
+                "comp1": "Georgina Garcia Perez",
+                "comp2": "Lusika Kumkhum ",
+                "odds": {
+                    "12": {
+                        "1": "2,02",
+                        "2": "1,71"
+                    },
+                    "": {}
+                }
+            },
+            "6225099": {
+                "time": "11:50",
+                "comp1": "Aleksandra Krunic",
+                "comp2": "Lia Karatancheva ",
+                "odds": {
+                    "12": {
+                        "1": "1,24",
+                        "2": "3,73"
+                    },
+                    "": {}
+                }
+            },
+            "6225097": {
+                "time": "13:00",
+                "comp1": "Peangtarn Plipuech",
+                "comp2": "Zhuoxuan Bai ",
+                "odds": {
+                    "12": {
+                        "1": "4,71",
+                        "2": "1,16"
+                    },
+                    "": {}
+                }
+            },
+            "6225102": {
+                "time": "13:00",
+                "comp1": "Eva Guerrero Alvarez",
+                "comp2": "Diana Marcinkevica ",
+                "odds": {
+                    "12": {
+                        "1": "1,27",
+                        "2": "3,47"
+                    },
+                    "": {}
+                }
+            },
+            "6225098": {
+                "time": "13:20",
+                "comp1": "Anastasia Kulikova",
+                "comp2": "Judith Perello Saavedra ",
+                "odds": {
+                    "12": {
+                        "1": "1,02",
+                        "2": "9,70"
+                    },
+                    "": {}
+                }
+            },
+            "6225010": {
+                "time": "14:30",
+                "comp1": "Mercedes Aristegui",
+                "comp2": "Oceane Dodin ",
+                "odds": {
+                    "12": {
+                        "1": "8,60",
+                        "2": "1,04"
+                    },
+                    "": {}
+                }
+            },
+            "6225007": {
+                "time": "15:00",
+                "comp1": "Gina Feistel",
+                "comp2": "Tianmi Mi ",
+                "odds": {
+                    "12": {
+                        "1": "1,98",
+                        "2": "1,74"
+                    },
+                    "": {}
+                }
+            },
+            "6225009": {
+                "time": "15:00",
+                "comp1": "Lucia Cortez Llorca",
+                "comp2": "Lucia Llinares Domingo ",
+                "odds": {
+                    "12": {
+                        "1": "1,10",
+                        "2": "6,00"
+                    },
+                    "": {}
+                }
+            },
+            "6225008": {
+                "time": "17:00",
+                "comp1": "Jaqueline Cristian",
+                "comp2": "Alexandra Eala  ",
+                "odds": {
+                    "12": {
+                        "1": "1,28",
+                        "2": "3,41"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Women Vitoria-Gasteiz, Doubles W-ITF-ESP-10A": {
+        "20/07/2023": {
+            "6226719": {
+                "time": "09:00",
+                "comp1": "Lindh Gallagher / Gina Feistel",
+                "comp2": "L.kumkhum/P.Plipuech ",
+                "odds": {
+                    "12": {
+                        "1": "4,47",
+                        "2": "1,17"
+                    },
+                    "": {}
+                }
+            },
+            "6227091": {
+                "time": "09:00",
+                "comp1": "A. Barnett/O. Nicholls",
+                "comp2": "Garcia-perez / A. Krunic ",
+                "odds": {
+                    "12": {
+                        "1": "1,83",
+                        "2": "1,83"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Challenger Pozoblanco": {
+        "19/07/2023": {
+            "6222821": {
+                "time": "18:00",
+                "comp1": "Mattia Bellucci",
+                "comp2": "Dan Added ",
+                "odds": {
+                    "12": {
+                        "1": "1,47",
+                        "2": "2,57"
+                    },
+                    "": {}
+                }
+            },
+            "6226918": {
+                "time": "18:00",
+                "comp1": "Hugo Grenier",
+                "comp2": "Alibek Kachmazov ",
+                "odds": {
+                    "12": {
+                        "1": "1,58",
+                        "2": "2,29"
+                    },
+                    "": {}
+                }
+            },
+            "6225186": {
+                "time": "19:30",
+                "comp1": "Daniel Masur",
+                "comp2": "Antoine Escoffier ",
+                "odds": {
+                    "12": {
+                        "1": "1,90",
+                        "2": "1,83"
+                    },
+                    "": {}
+                }
+            },
+            "6226945": {
+                "time": "09:00",
+                "comp1": "Edas butvilas",
+                "comp2": "Emilio Nava ",
+                "odds": {
+                    "12": {
+                        "1": "3,28",
+                        "2": "1,31"
+                    },
+                    "": {}
+                }
+            },
+            "6227367": {
+                "time": "09:00",
+                "comp1": "Cem Ilkel",
+                "comp2": "Juan Pablo Ficovich ",
+                "odds": {
+                    "12": {
+                        "1": "1,49",
+                        "2": "2,51"
+                    },
+                    "": {}
+                }
+            },
+            "6227368": {
+                "time": "09:00",
+                "comp1": "Ricardas Berankis",
+                "comp2": "T. Atmane ",
+                "odds": {
+                    "12": {
+                        "1": "1,61",
+                        "2": "2,23"
+                    },
+                    "": {}
+                }
+            },
+            "6228190": {
+                "time": "09:00",
+                "comp1": "Alejandro Moro Canas",
+                "comp2": "Pablo Llamas Ruiz ",
+                "odds": {
+                    "12": {
+                        "1": "2,27",
+                        "2": "1,59"
+                    },
+                    "": {}
+                }
+            },
+            "6228536": {
+                "time": "09:00",
+                "comp1": "Yanki Erel",
+                "comp2": "Daniel Cukierman ",
+                "odds": {
+                    "12": {
+                        "1": "2,52",
+                        "2": "1,49"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Men Gandia, Singles M-ITF-ESP-17A": {
+        "19/07/2023": {
+            "6219834": {
+                "time": "17:30",
+                "comp1": "Carles Cordoba",
+                "comp2": "Garrett Johns ",
+                "odds": {
+                    "12": {
+                        "1": "8,50",
+                        "2": "1,04"
+                    },
+                    "": {}
+                }
+            },
+            "6219842": {
+                "time": "17:30",
+                "comp1": "Oliver Crawford",
+                "comp2": "Max Alcala Gurri ",
+                "odds": {
+                    "12": {
+                        "1": "1,29",
+                        "2": "3,34"
+                    },
+                    "": {}
+                }
+            },
+            "6219848": {
+                "time": "17:30",
+                "comp1": "Pedro Rodenas",
+                "comp2": "Jaime Caldes ",
+                "odds": {
+                    "12": {
+                        "1": "1,11",
+                        "2": "5,52"
+                    },
+                    "": {}
+                }
+            },
+            "6225859": {
+                "time": "17:30",
+                "comp1": "Noah Regas Luis",
+                "comp2": "Vicente Oliver Moratalla ",
+                "odds": {
+                    "12": {
+                        "1": "2,24",
+                        "2": "1,59"
+                    },
+                    "": {}
+                }
+            },
+            "6225881": {
+                "time": "17:30",
+                "comp1": "Alejandro Garcia",
+                "comp2": "Javier Molino ",
+                "odds": {
+                    "12": {
+                        "1": "1,39",
+                        "2": "2,81"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Challenger Pozoblanco Doubles": {
+        "19/07/2023": {
+            "6211857": {
+                "time": "18:00",
+                "comp1": "Bollipalli Rithvik Choudary / Kadhe  Arjun",
+                "comp2": "Bittoun Kouzmine / Soriano Barrera ",
+                "odds": {
+                    "12": {
+                        "1": "1,18",
+                        "2": "4,45"
+                    },
+                    "": {}
+                }
+            },
+            "6226728": {
+                "time": "19:20",
+                "comp1": "Agabigun Sarp / Ilkel Berk",
+                "comp2": "D.Istomin/E.Karlovskiy ",
+                "odds": {
+                    "12": {
+                        "1": "1,72",
+                        "2": "2,00"
+                    },
+                    "": {}
+                }
+            },
+            "6216852": {
+                "time": "19:30",
+                "comp1": "Marrero D / Moreno De Alboran",
+                "comp2": "Alcantara F C / Sun F ",
+                "odds": {
+                    "12": {
+                        "1": "4,16",
+                        "2": "1,21"
+                    },
+                    "": {}
+                }
+            },
+            "6209149": {
+                "time": "21:00",
+                "comp1": "S. Nam J/M-K. Song",
+                "comp2": "A. Barroso Campos/P. Llamas Ruiz ",
+                "odds": {
+                    "12": {
+                        "1": "1,22",
+                        "2": "4,02"
+                    },
+                    "": {}
+                }
+            },
+            "6211837": {
+                "time": "21:00",
+                "comp1": "Dan Added / Pierre-Hugues Herbert",
+                "comp2": "Robert Strombachs / David Jorda Sanchis ",
+                "odds": {
+                    "12": {
+                        "1": "1,06",
+                        "2": "7,55"
+                    },
+                    "": {}
+                }
+            },
+            "6213291": {
+                "time": "22:00",
+                "comp1": "Echeverria John / Montes de la Torre Inaki",
+                "comp2": "Cukierman / Leshem ",
+                "odds": {
+                    "12": {
+                        "1": "2,35",
+                        "2": "1,55"
+                    },
+                    "": {}
+                }
+            },
+            "6216877": {
+                "time": "22:30",
+                "comp1": "Blanch U / Ficovich J P",
+                "comp2": "Johnson L. / Lock B. ",
+                "odds": {
+                    "12": {
+                        "1": "2,95",
+                        "2": "1,37"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF M25 Gandia MD": {
+        "19/07/2023": {
+            "6221908": {
+                "time": "16:00",
+                "comp1": "Minin Matvey / Mishkin Kirill",
+                "comp2": "F. Juarez/G. Roveri Sidney ",
+                "odds": {
+                    "12": {
+                        "1": "3,15",
+                        "2": "1,32"
+                    },
+                    "": {}
+                }
+            },
+            "6222719": {
+                "time": "16:00",
+                "comp1": "A Talaya/melero",
+                "comp2": "Felix Gill / Yshai Oliel ",
+                "odds": {
+                    "12": {
+                        "1": "6,00",
+                        "2": "1,10"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Casablanca 15 - Women - Singles ": {
+        "19/07/2023": {
+            "6221443": {
+                "time": "11:00",
+                "comp1": "Ilaria Sposetti",
+                "comp2": "Syria La Cerra ",
+                "odds": {
+                    "12": {
+                        "1": "1,87",
+                        "2": "1,84"
+                    },
+                    "": {}
+                }
+            },
+            "6221482": {
+                "time": "11:00",
+                "comp1": "Marie Mettraux",
+                "comp2": "Malak El Allami ",
+                "odds": {
+                    "12": {
+                        "1": "1,63",
+                        "2": "2,17"
+                    },
+                    "": {}
+                }
+            },
+            "6221530": {
+                "time": "11:00",
+                "comp1": "Oumaima Aziz",
+                "comp2": "Lucie Pawlak ",
+                "odds": {
+                    "12": {
+                        "1": "2,37",
+                        "2": "1,53"
+                    },
+                    "": {}
+                }
+            },
+            "6221486": {
+                "time": "12:30",
+                "comp1": "Gloria Ceschi",
+                "comp2": "M. Komano ",
+                "odds": {
+                    "12": {
+                        "1": "1,32",
+                        "2": "3,15"
+                    },
+                    "": {}
+                }
+            },
+            "6221488": {
+                "time": "12:30",
+                "comp1": "Aya El Aouni",
+                "comp2": "Jizel Matos Sequeira Fernandes ",
+                "odds": {
+                    "12": {
+                        "1": "1,02",
+                        "2": "9,95"
+                    },
+                    "": {}
+                }
+            },
+            "6221489": {
+                "time": "12:30",
+                "comp1": "Manal Ennaciri",
+                "comp2": "Vittoria Modesti ",
+                "odds": {
+                    "12": {
+                        "1": "4,08",
+                        "2": "1,20"
+                    },
+                    "": {}
+                }
+            },
+            "6221531": {
+                "time": "12:30",
+                "comp1": "Shubladze Alexandra",
+                "comp2": "Yasmine Kabbaj ",
+                "odds": {
+                    "12": {
+                        "1": "3,34",
+                        "2": "1,29"
+                    },
+                    "": {}
+                }
+            },
+            "6221435": {
+                "time": "14:00",
+                "comp1": "Amelie Van Impe",
+                "comp2": "Samira De Stefano ",
+                "odds": {
+                    "12": {
+                        "1": "1,34",
+                        "2": "3,04"
+                    },
+                    "": {}
+                }
+            },
+            "6221485": {
+                "time": "14:00",
+                "comp1": "Klara Veldman",
+                "comp2": "Giorgia Pinto ",
+                "odds": {
+                    "12": {
+                        "1": "3,15",
+                        "2": "1,32"
+                    },
+                    "": {}
+                }
+            },
+            "6221532": {
+                "time": "14:00",
+                "comp1": "Amelia Waligora",
+                "comp2": "F. Urgesi ",
+                "odds": {
+                    "12": {
+                        "1": "2,10",
+                        "2": "1,67"
+                    },
+                    "": {}
+                }
+            },
+            "6221579": {
+                "time": "14:00",
+                "comp1": "Ekaterina Perelygina",
+                "comp2": "V. Gomez ",
+                "odds": {
+                    "12": {
+                        "1": "1,08",
+                        "2": "6,54"
+                    },
+                    "": {}
+                }
+            },
+            "6225391": {
+                "time": "10:00",
+                "comp1": "Andrea Obradovic",
+                "comp2": "Naia Mercadier ",
+                "odds": {
+                    "12": {
+                        "1": "1,11",
+                        "2": "6,15"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Itf W15 Casablanca, Doubles": {
+        "20/07/2023": {
+            "6226683": {
+                "time": "11:00",
+                "comp1": "Astrid Lew Yan Foon / Marie Mettraux",
+                "comp2": "Chanel Janssen / Klara Veldman ",
+                "odds": {
+                    "12": {
+                        "1": "1,17",
+                        "2": "4,47"
+                    },
+                    "": {}
+                }
+            },
+            "6226688": {
+                "time": "11:00",
+                "comp1": "Gloria Ceschi / Giulia Tedesco",
+                "comp2": "Victoria Gomez / Giorgia Pinto ",
+                "odds": {
+                    "12": {
+                        "1": "1,83",
+                        "2": "1,83"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Men Gubbio, Singles M-ITF-ITA-14A": {
+        "19/07/2023": {
+            "6221728": {
+                "time": "11:45",
+                "comp1": "Peter Buldorini",
+                "comp2": "Daniel Bagnolini ",
+                "odds": {
+                    "12": {
+                        "1": "1,90",
+                        "2": "1,80"
+                    },
+                    "": {}
+                }
+            },
+            "6221726": {
+                "time": "12:20",
+                "comp1": "Niccolo Baroni",
+                "comp2": "Luca Castagnola ",
+                "odds": {
+                    "12": {
+                        "1": "2,21",
+                        "2": "1,61"
+                    },
+                    "": {}
+                }
+            },
+            "6221732": {
+                "time": "13:00",
+                "comp1": "Fausto Tabacco",
+                "comp2": "Gian Marco Ortenzi ",
+                "odds": {
+                    "12": {
+                        "1": "1,19",
+                        "2": "4,27"
+                    },
+                    "": {}
+                }
+            },
+            "6221725": {
+                "time": "14:30",
+                "comp1": "Samuele Pieri",
+                "comp2": "Andrea Picchione ",
+                "odds": {
+                    "12": {
+                        "1": "3,34",
+                        "2": "1,29"
+                    },
+                    "": {}
+                }
+            },
+            "6227761": {
+                "time": "20:00",
+                "comp1": "Andrea Militi Ribaldi",
+                "comp2": "Federico Campana ",
+                "odds": {
+                    "12": {
+                        "1": "2,44",
+                        "2": "1,50"
+                    },
+                    "": {}
+                }
+            },
+            "6227248": {
+                "time": "09:00",
+                "comp1": "Gabriele Maria Noce",
+                "comp2": "Federico Arnaboldi ",
+                "odds": {
+                    "12": {
+                        "1": "6,15",
+                        "2": "1,11"
+                    },
+                    "": {}
+                }
+            },
+            "6227249": {
+                "time": "09:00",
+                "comp1": "Marco Miceli",
+                "comp2": "Luca Tomasetto ",
+                "odds": {
+                    "12": {
+                        "1": "2,98",
+                        "2": "1,37"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "WTA Palermo Doubles": {
+        "19/07/2023": {
+            "6216169": {
+                "time": "16:00",
+                "comp1": "A. Anshba/A. Detiuc",
+                "comp2": "Neel Ingrid / Wu Fang Hsien ",
+                "odds": {
+                    "12": {
+                        "1": "2,19",
+                        "2": "1,64"
+                    },
+                    "": {}
+                }
+            },
+            "6216161": {
+                "time": "17:30",
+                "comp1": "Errani/paolini",
+                "comp2": "Gamiz/Vedder ",
+                "odds": {
+                    "12": {
+                        "1": "1,47",
+                        "2": "2,59"
+                    },
+                    "": {}
+                }
+            },
+            "6225877": {
+                "time": "19:00",
+                "comp1": "Sizikova / Zimmermann",
+                "comp2": "Spiteri/Zantedeschi ",
+                "odds": {
+                    "12": {
+                        "1": "1,23",
+                        "2": "3,94"
+                    },
+                    "": {}
+                }
+            },
+            "6216160": {
+                "time": "20:30",
+                "comp1": "Bucsa / Schoofs",
+                "comp2": "Appleton E / Lohoff J ",
+                "odds": {
+                    "12": {
+                        "1": "1,68",
+                        "2": "2,12"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "WTA 250 Palermo, Italy, Singles": {
+        "19/07/2023": {
+            "6226875": {
+                "time": "15:00",
+                "comp1": "Sara Sorribes Tormo",
+                "comp2": "Nuria Brancaccio ",
+                "odds": {
+                    "12": {
+                        "1": "1,13",
+                        "2": "5,90"
+                    },
+                    "": {}
+                }
+            },
+            "6227150": {
+                "time": "16:30",
+                "comp1": "Cristina Bucsa",
+                "comp2": "Clara Burel ",
+                "odds": {
+                    "12": {
+                        "1": "2,25",
+                        "2": "1,65"
+                    },
+                    "": {}
+                }
+            },
+            "6221463": {
+                "time": "19:00",
+                "comp1": "Diane Parry",
+                "comp2": "Qinwen Zheng ",
+                "odds": {
+                    "12": {
+                        "1": "3,72",
+                        "2": "1,28"
+                    },
+                    "": {}
+                }
+            },
+            "6225955": {
+                "time": "20:30",
+                "comp1": "Emma Navarro",
+                "comp2": "Camilla Rosatello ",
+                "odds": {
+                    "12": {
+                        "1": "1,07",
+                        "2": "8,50"
+                    },
+                    "": {}
+                }
+            },
+            "6227151": {
+                "time": "09:00",
+                "comp1": "Sofya Lansere",
+                "comp2": "Sherif M. ",
+                "odds": {
+                    "12": {
+                        "1": "9,60",
+                        "2": "1,05"
+                    },
+                    "": {}
+                }
+            },
+            "6227167": {
+                "time": "09:00",
+                "comp1": "Daria Kasatkina",
+                "comp2": "T. Barkova ",
+                "odds": {
+                    "12": {
+                        "1": "1,03",
+                        "2": "12,00"
+                    },
+                    "": {}
+                }
+            },
+            "6227758": {
+                "time": "09:00",
+                "comp1": "dayana yastremska",
+                "comp2": "Jasmine Paolini ",
+                "odds": {
+                    "12": {
+                        "1": "2,44",
+                        "2": "1,56"
+                    },
+                    "": {}
+                }
+            },
+            "6227765": {
+                "time": "09:00",
+                "comp1": "E. Andreeva",
+                "comp2": "Maria Camila Osorio Serrano ",
+                "odds": {
+                    "12": {
+                        "1": "3,01",
+                        "2": "1,39"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Challenger Trieste": {
+        "19/07/2023": {
+            "6224968": {
+                "time": "12:30",
+                "comp1": "Enrico Dalla Valle",
+                "comp2": "Flavio Cobolli ",
+                "odds": {
+                    "12": {
+                        "1": "5,02",
+                        "2": "1,15"
+                    },
+                    "": {}
+                }
+            },
+            "6225421": {
+                "time": "15:45",
+                "comp1": "Fabian Marozsan",
+                "comp2": "Matteo Gigante ",
+                "odds": {
+                    "12": {
+                        "1": "1,39",
+                        "2": "2,87"
+                    },
+                    "": {}
+                }
+            },
+            "6226185": {
+                "time": "19:30",
+                "comp1": "D. Prizmic",
+                "comp2": "Francesco Passaro ",
+                "odds": {
+                    "12": {
+                        "1": "1,69",
+                        "2": "2,08"
+                    },
+                    "": {}
+                }
+            },
+            "6225690": {
+                "time": "09:00",
+                "comp1": "Kyrian Jacquet",
+                "comp2": "Vitaliy Sachko ",
+                "odds": {
+                    "12": {
+                        "1": "2,36",
+                        "2": "1,55"
+                    },
+                    "": {}
+                }
+            },
+            "6225805": {
+                "time": "09:00",
+                "comp1": "Zdenek Kolar",
+                "comp2": "Stefano Napolitano ",
+                "odds": {
+                    "12": {
+                        "1": "2,52",
+                        "2": "1,49"
+                    },
+                    "": {}
+                }
+            },
+            "6226576": {
+                "time": "09:00",
+                "comp1": "Marcello Serafini",
+                "comp2": "Pedro Martinez Portero ",
+                "odds": {
+                    "12": {
+                        "1": "3,72",
+                        "2": "1,25"
+                    },
+                    "": {}
+                }
+            },
+            "6226837": {
+                "time": "09:00",
+                "comp1": "Roman A Burruchaga",
+                "comp2": "Hugo Gaston ",
+                "odds": {
+                    "12": {
+                        "1": "3,01",
+                        "2": "1,36"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF M15 Gubbio MD": {
+        "19/07/2023": {
+            "6225566": {
+                "time": "15:00",
+                "comp1": "Cigarran T / Yamacita F",
+                "comp2": "G. Debru/M. Debru ",
+                "odds": {
+                    "12": {
+                        "1": "1,86",
+                        "2": "1,86"
+                    },
+                    "": {}
+                }
+            },
+            "6226454": {
+                "time": "16:30",
+                "comp1": "Noce Gabriele Maria / Sorrentino Luigi",
+                "comp2": "Lalami Laaroussi / Luca Fantini ",
+                "odds": {
+                    "12": {
+                        "1": "1,45",
+                        "2": "2,59"
+                    },
+                    "": {}
+                }
+            },
+            "6226245": {
+                "time": "17:30",
+                "comp1": "Bilardo Jacopo / Ricca Giorgio",
+                "comp2": "Bruna/Roncadelli ",
+                "odds": {
+                    "12": {
+                        "1": "2,44",
+                        "2": "1,50"
+                    },
+                    "": {}
+                }
+            },
+            "6226721": {
+                "time": "18:00",
+                "comp1": "de Michele Fabio / Minighini Daniele",
+                "comp2": "F. Bertuccioli/L. Tomasetto ",
+                "odds": {
+                    "12": {
+                        "1": "2,23",
+                        "2": "1,60"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Challenger. Trieste Doubles": {
+        "19/07/2023": {
+            "6208363": {
+                "time": "11:00",
+                "comp1": "Tabur / Jacquet",
+                "comp2": "F Romboli / M Zormann ",
+                "odds": {
+                    "12": {
+                        "1": "2,54",
+                        "2": "1,48"
+                    },
+                    "": {}
+                }
+            },
+            "6211686": {
+                "time": "11:00",
+                "comp1": "Piraino G. / Serafini M.",
+                "comp2": "A Chepelev / D Golubev ",
+                "odds": {
+                    "12": {
+                        "1": "1,11",
+                        "2": "5,76"
+                    },
+                    "": {}
+                }
+            },
+            "6211820": {
+                "time": "12:30",
+                "comp1": "Romios M C / Taylor J",
+                "comp2": "P. Martinez / C. Taberner ",
+                "odds": {
+                    "12": {
+                        "1": "2,64",
+                        "2": "1,45"
+                    },
+                    "": {}
+                }
+            },
+            "6216807": {
+                "time": "15:00",
+                "comp1": "Andreozzi G. / Qureshi A.",
+                "comp2": "M-A. Jecan/M. Kalovelonis ",
+                "odds": {
+                    "12": {
+                        "1": "1,18",
+                        "2": "4,50"
+                    },
+                    "": {}
+                }
+            },
+            "6211642": {
+                "time": "15:30",
+                "comp1": "Roy Stepanov / Tennyson Whiting",
+                "comp2": "Darderi L. / Giannessi A. ",
+                "odds": {
+                    "12": {
+                        "1": "5,97",
+                        "2": "1,11"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Ace Belarus Cup": {
+        "19/07/2023": {
+            "6227678": {
+                "time": "11:30",
+                "comp1": "Timofey Radyuk",
+                "comp2": "Aleksandr Krivalcevich ",
+                "odds": {
+                    "12": {
+                        "1": "1,42",
+                        "2": "2,66"
+                    },
+                    "": {}
+                }
+            },
+            "6227683": {
+                "time": "18:00",
+                "comp1": "yarmoshuk kirill",
+                "comp2": "Sergey Zavrazhnov ",
+                "odds": {
+                    "12": {
+                        "1": "1,17",
+                        "2": "4,39"
+                    },
+                    "": {}
+                }
+            },
+            "6227670": {
+                "time": "19:30",
+                "comp1": "Dmitry Chikhmatov",
+                "comp2": "Maxim Ionov ",
+                "odds": {
+                    "12": {
+                        "1": "1,86",
+                        "2": "1,86"
+                    },
+                    "": {}
+                }
+            },
+            "6227682": {
+                "time": "22:30",
+                "comp1": "yarmoshuk kirill",
+                "comp2": "Dmitry Chikhmatov ",
+                "odds": {
+                    "": {}
+                }
+            },
+            "6227675": {
+                "time": "00:00",
+                "comp1": "Ivan Chubkov",
+                "comp2": "Aleksandr Belov ",
+                "odds": {
+                    "12": {
+                        "1": "1,86",
+                        "2": "1,86"
+                    },
+                    "": {}
+                }
+            },
+            "6227669": {
+                "time": "01:30",
+                "comp1": "Daniil Firsov",
+                "comp2": "Aleksandr Krivalcevich ",
+                "odds": {
+                    "12": {
+                        "1": "1,21",
+                        "2": "3,89"
+                    },
+                    "": {}
+                }
+            },
+            "6227674": {
+                "time": "01:30",
+                "comp1": "Piotr Petrovskiy",
+                "comp2": "Ivan Chubkov ",
+                "odds": {
+                    "12": {
+                        "1": "1,17",
+                        "2": "4,39"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "Ace Belarus Cup. Women": {
+        "19/07/2023": {
+            "6227687": {
+                "time": "18:00",
+                "comp1": "Daria Sibileva",
+                "comp2": "Maria Nikitenko ",
+                "odds": {
+                    "12": {
+                        "1": "1,58",
+                        "2": "2,22"
+                    },
+                    "": {}
+                }
+            },
+            "6227688": {
+                "time": "22:30",
+                "comp1": "Yelizaveta Smirnaya",
+                "comp2": "Yana Khodorovich ",
+                "odds": {
+                    "12": {
+                        "1": "2,10",
+                        "2": "1,68"
+                    },
+                    "": {}
+                }
+            },
+            "6227684": {
+                "time": "00:00",
+                "comp1": "Maria Tsilinskaya",
+                "comp2": "Elena Naumenko ",
+                "odds": {
+                    "12": {
+                        "1": "1,19",
+                        "2": "4,07"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Men Castelo Branco, Doubles M-ITF-POR-08A": {
+        "20/07/2023": {
+            "6227228": {
+                "time": "09:30",
+                "comp1": "Falcao Goncalo / Pereira Tiago",
+                "comp2": "Gonzalez Fernandez M / Malirz K ",
+                "odds": {
+                    "12": {
+                        "1": "1,21",
+                        "2": "4,27"
+                    },
+                    "": {}
+                }
+            },
+            "6227231": {
+                "time": "09:30",
+                "comp1": "Lopez Noah / Moghini Gabriele",
+                "comp2": "Aaron Addison / Ethan Cook ",
+                "odds": {
+                    "12": {
+                        "1": "2,00",
+                        "2": "1,72"
+                    },
+                    "": {}
+                }
+            },
+            "6227232": {
+                "time": "09:30",
+                "comp1": "Silva J / Silva T",
+                "comp2": "Fernandez Flores Diego / Vale Duarte ",
+                "odds": {
+                    "12": {
+                        "1": "8,25",
+                        "2": "1,06"
+                    },
+                    "": {}
+                }
+            },
+            "6227233": {
+                "time": "09:30",
+                "comp1": "Rocha/Faria",
+                "comp2": "Goncalves/Maia ",
+                "odds": {
+                    "12": {
+                        "1": "1,06",
+                        "2": "8,25"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF W40 Women - Porto - singles": {
+        "19/07/2023": {
+            "6225962": {
+                "time": "12:00",
+                "comp1": "Maddison Inglis",
+                "comp2": "Pemra Ozgen ",
+                "odds": {
+                    "12": {
+                        "1": "1,22",
+                        "2": "3,92"
+                    },
+                    "": {}
+                }
+            },
+            "6227153": {
+                "time": "12:00",
+                "comp1": "chelsea fontenel",
+                "comp2": "Ksenia Zaytseva ",
+                "odds": {
+                    "12": {
+                        "1": "4,13",
+                        "2": "1,20"
+                    },
+                    "": {}
+                }
+            },
+            "6227154": {
+                "time": "12:00",
+                "comp1": "Maria Bondarenko",
+                "comp2": "Eudice Chong ",
+                "odds": {
+                    "12": {
+                        "1": "2,17",
+                        "2": "1,63"
+                    },
+                    "": {}
+                }
+            },
+            "6227155": {
+                "time": "12:00",
+                "comp1": "Francisca Jorge",
+                "comp2": "Xinyu Gao ",
+                "odds": {
+                    "12": {
+                        "1": "2,47",
+                        "2": "1,49"
+                    },
+                    "": {}
+                }
+            },
+            "6225960": {
+                "time": "13:30",
+                "comp1": "Arianne Hartono",
+                "comp2": "T. Mcgiffin ",
+                "odds": {
+                    "12": {
+                        "1": "1,04",
+                        "2": "8,60"
+                    },
+                    "": {}
+                }
+            },
+            "6225963": {
+                "time": "13:30",
+                "comp1": "Matilde Jorge",
+                "comp2": "Lesley Kerkhove ",
+                "odds": {
+                    "12": {
+                        "1": "3,64",
+                        "2": "1,25"
+                    },
+                    "": {}
+                }
+            },
+            "6227156": {
+                "time": "13:30",
+                "comp1": "Alina Korneeva",
+                "comp2": "Kristina Mladenovic ",
+                "odds": {
+                    "12": {
+                        "1": "1,18",
+                        "2": "4,30"
+                    },
+                    "": {}
+                }
+            },
+            "6227253": {
+                "time": "13:30",
+                "comp1": "Dominika Salkova",
+                "comp2": "Lulu Sun ",
+                "odds": {
+                    "12": {
+                        "1": "1,75",
+                        "2": "1,97"
+                    },
+                    "": {}
+                }
+            },
+            "6227157": {
+                "time": "15:00",
+                "comp1": "Ena Shibahara",
+                "comp2": "Lina Glushko ",
+                "odds": {
+                    "12": {
+                        "1": "2,12",
+                        "2": "1,66"
+                    },
+                    "": {}
+                }
+            },
+            "6227158": {
+                "time": "15:00",
+                "comp1": "Harmony Tan",
+                "comp2": "Yeon Woo Ku ",
+                "odds": {
+                    "12": {
+                        "1": "1,49",
+                        "2": "2,47"
+                    },
+                    "": {}
+                }
+            },
+            "6227159": {
+                "time": "15:00",
+                "comp1": "P. Iatcenko",
+                "comp2": "Gabriela Andrea Knutson ",
+                "odds": {
+                    "12": {
+                        "1": "2,21",
+                        "2": "1,61"
+                    },
+                    "": {}
+                }
+            },
+            "6227160": {
+                "time": "15:30",
+                "comp1": "Arina Rodionova",
+                "comp2": "Kira Pavlova ",
+                "odds": {
+                    "12": {
+                        "1": "1,02",
+                        "2": "9,95"
+                    },
+                    "": {}
+                }
+            },
+            "6225961": {
+                "time": "16:30",
+                "comp1": "Haruka Kaji",
+                "comp2": "Momoko Kobori ",
+                "odds": {
+                    "12": {
+                        "1": "1,17",
+                        "2": "4,52"
+                    },
+                    "": {}
+                }
+            },
+            "6227161": {
+                "time": "16:30",
+                "comp1": "Petra Hule",
+                "comp2": "Miyazaki Yuriko Lily ",
+                "odds": {
+                    "12": {
+                        "1": "2,30",
+                        "2": "1,56"
+                    },
+                    "": {}
+                }
+            },
+            "6227162": {
+                "time": "16:30",
+                "comp1": "Sofia Costoulas",
+                "comp2": "Daria Khomutsianskaya ",
+                "odds": {
+                    "12": {
+                        "1": "1,24",
+                        "2": "3,73"
+                    },
+                    "": {}
+                }
+            },
+            "6227163": {
+                "time": "17:00",
+                "comp1": "Isabella Shinikova",
+                "comp2": "Sakura Hosogi ",
+                "odds": {
+                    "12": {
+                        "1": "1,60",
+                        "2": "2,23"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF. Porto. Women. Doubles": {
+        "19/07/2023": {
+            "6223164": {
+                "time": "18:00",
+                "comp1": " Gabriella Da Silva Fick / Osborne Alexandra",
+                "comp2": "Hartono / Chong ",
+                "odds": {
+                    "12": {
+                        "1": "3,82",
+                        "2": "1,23"
+                    },
+                    "": {}
+                }
+            },
+            "6223187": {
+                "time": "18:00",
+                "comp1": "Teresa Franco Dias / Giulia Pereira De Aguiar",
+                "comp2": "Candiotto A / Pereira R ",
+                "odds": {
+                    "12": {
+                        "1": "16,00",
+                        "2": "1,01"
+                    },
+                    "": {}
+                }
+            },
+            "6222969": {
+                "time": "18:30",
+                "comp1": "Jorge/Jorge",
+                "comp2": "Anastasiia Gureva /  Alina Korneeva ",
+                "odds": {
+                    "12": {
+                        "1": "1,48",
+                        "2": "2,50"
+                    },
+                    "": {}
+                }
+            },
+            "6227146": {
+                "time": "10:00",
+                "comp1": "Dominika Salkova / Radka Zelnickova",
+                "comp2": "Pattinama-Kerkhove/Rodionova ",
+                "odds": {
+                    "12": {
+                        "1": "3,96",
+                        "2": "1,23"
+                    },
+                    "": {}
+                }
+            },
+            "6227413": {
+                "time": "13:00",
+                "comp1": "Hosogi Sakura / Kobori Momoko",
+                "comp2": "Costoulas Sofia / Mcadoo Rasheeda ",
+                "odds": {
+                    "12": {
+                        "1": "2,09",
+                        "2": "1,68"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Men Castelo Branco, Singles Qualifying M-ITF-POR-09A": {
+        "19/07/2023": {
+            "6220863": {
+                "time": "11:00",
+                "comp1": "Jaime Faria",
+                "comp2": "Tiago Silva ",
+                "odds": {
+                    "12": {
+                        "1": "1,07",
+                        "2": "6,87"
+                    },
+                    "": {}
+                }
+            },
+            "6220739": {
+                "time": "11:05",
+                "comp1": "Fabio Coelho",
+                "comp2": "Tiago Pereira ",
+                "odds": {
+                    "12": {
+                        "1": "1,97",
+                        "2": "1,75"
+                    },
+                    "": {}
+                }
+            },
+            "6220797": {
+                "time": "12:00",
+                "comp1": "Peter Alam",
+                "comp2": "Cesar Porras ",
+                "odds": {
+                    "12": {
+                        "1": "11,50",
+                        "2": "1,01"
+                    },
+                    "": {}
+                }
+            },
+            "6220870": {
+                "time": "12:15",
+                "comp1": "Raphael Lambling",
+                "comp2": "Diego Fernandez Flores ",
+                "odds": {
+                    "12": {
+                        "1": "1,66",
+                        "2": "2,12"
+                    },
+                    "": {}
+                }
+            },
+            "6220793": {
+                "time": "12:35",
+                "comp1": "Fabrizio Andaloro",
+                "comp2": "Mario Gonzalez Fernandez ",
+                "odds": {
+                    "12": {
+                        "1": "2,30",
+                        "2": "1,56"
+                    },
+                    "": {}
+                }
+            },
+            "6220791": {
+                "time": "18:00",
+                "comp1": "Ethan Cook",
+                "comp2": "Guillaume Dalmasso ",
+                "odds": {
+                    "12": {
+                        "1": "2,85",
+                        "2": "1,38"
+                    },
+                    "": {}
+                }
+            },
+            "6220796": {
+                "time": "18:00",
+                "comp1": "M. Pawelski",
+                "comp2": "Felix Mischker ",
+                "odds": {
+                    "12": {
+                        "1": "1,02",
+                        "2": "10,50"
+                    },
+                    "": {}
+                }
+            },
+            "6220861": {
+                "time": "18:00",
+                "comp1": "Adan Freire Da Silva",
+                "comp2": "Noah Lopez ",
+                "odds": {
+                    "12": {
+                        "1": "2,81",
+                        "2": "1,39"
+                    },
+                    "": {}
+                }
+            },
+            "6225262": {
+                "time": "10:00",
+                "comp1": "Nicolas Herrero",
+                "comp2": "Victor Lilov ",
+                "odds": {
+                    "12": {
+                        "1": "6,15",
+                        "2": "1,11"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Women Parnu, Singles W-WITF-EST-01A": {
+        "19/07/2023": {
+            "6220857": {
+                "time": "14:30",
+                "comp1": "Sara Bejlek",
+                "comp2": "Sandra Samir ",
+                "odds": {
+                    "": {}
+                }
+            },
+            "6226132": {
+                "time": "14:30",
+                "comp1": "Patricija Paukstyte",
+                "comp2": "Nadya Kolb ",
+                "odds": {
+                    "12": {
+                        "1": "1,27",
+                        "2": "3,47"
+                    },
+                    "": {}
+                }
+            },
+            "6220856": {
+                "time": "15:00",
+                "comp1": "Maileen Nuudi",
+                "comp2": "Maren Helgo ",
+                "odds": {
+                    "12": {
+                        "1": "3,92",
+                        "2": "1,22"
+                    },
+                    "": {}
+                }
+            },
+            "6226130": {
+                "time": "16:30",
+                "comp1": "Klaudija Bubelyte",
+                "comp2": "Ella Haavisto ",
+                "odds": {
+                    "12": {
+                        "1": "1,08",
+                        "2": "6,43"
+                    },
+                    "": {}
+                }
+            },
+            "6220862": {
+                "time": "17:30",
+                "comp1": "A. Koskel",
+                "comp2": "Bianca Behulova ",
+                "odds": {
+                    "12": {
+                        "1": "3,04",
+                        "2": "1,34"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Women Parnu, Doubles W-WITF-EST-01A": {
+        "19/07/2023": {
+            "6222799": {
+                "time": "14:00",
+                "comp1": "L. Ciric Bagaric / J. Duerst",
+                "comp2": "Hietaranta L / Visscher S J ",
+                "odds": {
+                    "12": {
+                        "1": "1,36",
+                        "2": "2,94"
+                    },
+                    "": {}
+                }
+            },
+            "6226800": {
+                "time": "11:00",
+                "comp1": "P. Paukstyte / J. Saner",
+                "comp2": "Meyer Auf Der Heide / Fossa Huergo ",
+                "odds": {
+                    "12": {
+                        "1": "2,62",
+                        "2": "1,45"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Women Les Contamines-Montjoie, Doubles": {
+        "19/07/2023": {
+            "6228048": {
+                "time": "15:00",
+                "comp1": "M. Giordano / E. O. Ghirardato",
+                "comp2": "C. Simunyu / K. Tsygourova ",
+                "odds": {
+                    "12": {
+                        "1": "6,43",
+                        "2": "1,08"
+                    },
+                    "": {}
+                }
+            },
+            "6226322": {
+                "time": "09:00",
+                "comp1": "Dessolis B / Dessolis M",
+                "comp2": "Olivia Bergler  / Michika Ozeki  ",
+                "odds": {
+                    "12": {
+                        "1": "1,83",
+                        "2": "1,83"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF W15 Les Contamines": {
+        "19/07/2023": {
+            "6219853": {
+                "time": "11:00",
+                "comp1": "Jenny Lim",
+                "comp2": "Emma Ottavia Ghirardato ",
+                "odds": {
+                    "12": {
+                        "1": "1,04",
+                        "2": "8,35"
+                    },
+                    "": {}
+                }
+            },
+            "6219854": {
+                "time": "11:10",
+                "comp1": "Matilde Mariani",
+                "comp2": "Barbara Dessolis ",
+                "odds": {
+                    "12": {
+                        "1": "2,26",
+                        "2": "1,58"
+                    },
+                    "": {}
+                }
+            },
+            "6219857": {
+                "time": "11:30",
+                "comp1": "Paula Cembranos",
+                "comp2": "Mutavdzic Matilda ",
+                "odds": {
+                    "12": {
+                        "1": "3,34",
+                        "2": "1,29"
+                    },
+                    "": {}
+                }
+            },
+            "6219856": {
+                "time": "14:00",
+                "comp1": "Michika Ozeki",
+                "comp2": "Camilia Samel Druz ",
+                "odds": {
+                    "12": {
+                        "1": "1,13",
+                        "2": "5,25"
+                    },
+                    "": {}
+                }
+            },
+            "6222014": {
+                "time": "16:00",
+                "comp1": "Severine Deppner",
+                "comp2": "Naima Karamoko ",
+                "odds": {
+                    "12": {
+                        "1": "3,81",
+                        "2": "1,23"
+                    },
+                    "": {}
+                }
+            },
+            "6226357": {
+                "time": "09:00",
+                "comp1": "Chloe Noel",
+                "comp2": "O. Bergler ",
+                "odds": {
+                    "12": {
+                        "1": "1,68",
+                        "2": "2,09"
+                    },
+                    "": {}
+                }
+            },
+            "6226787": {
+                "time": "09:00",
+                "comp1": "Astrid Cirotte",
+                "comp2": "Pauline Courcoux ",
+                "odds": {
+                    "12": {
+                        "1": "2,09",
+                        "2": "1,68"
+                    },
+                    "": {}
+                }
+            },
+            "6226842": {
+                "time": "09:00",
+                "comp1": "Jeline Vandromme",
+                "comp2": "Selina Dal ",
+                "odds": {
+                    "12": {
+                        "1": "2,75",
+                        "2": "1,41"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Women Darmstadt, Singles W-WITF-GER-10A": {
+        "19/07/2023": {
+            "6219838": {
+                "time": "11:30",
+                "comp1": "Alice Robbe",
+                "comp2": "A. Soboleva ",
+                "odds": {
+                    "12": {
+                        "1": "2,16",
+                        "2": "1,63"
+                    },
+                    "": {}
+                }
+            },
+            "6220727": {
+                "time": "11:30",
+                "comp1": "Emily Welker",
+                "comp2": "Lola Radivojevic ",
+                "odds": {
+                    "12": {
+                        "1": "6,70",
+                        "2": "1,08"
+                    },
+                    "": {}
+                }
+            },
+            "6226054": {
+                "time": "11:35",
+                "comp1": "Marine Partaud",
+                "comp2": "Pieri T. (Italy) ",
+                "odds": {
+                    "12": {
+                        "1": "2,10",
+                        "2": "1,67"
+                    },
+                    "": {}
+                }
+            },
+            "6228088": {
+                "time": "11:40",
+                "comp1": "Arina Gabriela Vasilescu",
+                "comp2": "Dea Herdzelas ",
+                "odds": {
+                    "12": {
+                        "1": "4,22",
+                        "2": "1,19"
+                    },
+                    "": {}
+                }
+            },
+            "6219839": {
+                "time": "13:30",
+                "comp1": "Nikol Rivkin",
+                "comp2": "Caijsa Wilda Hennemann ",
+                "odds": {
+                    "12": {
+                        "1": "4,51",
+                        "2": "1,17"
+                    },
+                    "": {}
+                }
+            },
+            "6226051": {
+                "time": "13:30",
+                "comp1": "Alana Parnaby",
+                "comp2": "Jantje Tilbuerger ",
+                "odds": {
+                    "12": {
+                        "1": "1,83",
+                        "2": "1,88"
+                    },
+                    "": {}
+                }
+            },
+            "6220102": {
+                "time": "14:00",
+                "comp1": "Chiara Scholl",
+                "comp2": "Michaela Bayerlova ",
+                "odds": {
+                    "12": {
+                        "1": "1,83",
+                        "2": "1,83"
+                    },
+                    "": {}
+                }
+            },
+            "6226077": {
+                "time": "14:30",
+                "comp1": "Lucie Nguyen Tan",
+                "comp2": "Sina Herrmann ",
+                "odds": {
+                    "12": {
+                        "1": "1,49",
+                        "2": "2,47"
+                    },
+                    "": {}
+                }
+            },
+            "6226075": {
+                "time": "15:30",
+                "comp1": "Julia Avdeeva",
+                "comp2": "Ziva Falkner ",
+                "odds": {
+                    "12": {
+                        "1": "1,42",
+                        "2": "2,69"
+                    },
+                    "": {}
+                }
+            },
+            "6226076": {
+                "time": "16:00",
+                "comp1": "Mara Guth",
+                "comp2": "Elena Pridankina ",
+                "odds": {
+                    "12": {
+                        "1": "3,92",
+                        "2": "1,22"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF W25 Darmstadt WD": {
+        "20/07/2023": {
+            "6226309": {
+                "time": "09:00",
+                "comp1": "Michaela Bayerlova / Alana Parnaby",
+                "comp2": "Herrmann S / Vojcinakova I ",
+                "odds": {
+                    "12": {
+                        "1": "1,41",
+                        "2": "2,75"
+                    },
+                    "": {}
+                }
+            },
+            "6227237": {
+                "time": "12:00",
+                "comp1": "C. Scholl/A. Wirges",
+                "comp2": "Laskevich Evialina / Pridankina Elena ",
+                "odds": {
+                    "12": {
+                        "1": "2,35",
+                        "2": "1,55"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    "ITF Uslar | Men | Doubles": {
+        "19/07/2023": {
+            "6225936": {
+                "time": "15:30",
+                "comp1": "Dedura Palomero Mariano / Vasquez Gehrke  Alessio",
+                "comp2": "Engel Justin / Schoenhaus Max ",
+                "odds": {
+                    "12": {
+                        "1": "2,44",
+                        "2": "1,50"
+                    },
+                    "": {}
+                }
+            },
+            "6225695": {
+                "time": "09:00",
+                "comp1": "Jasper Camehn / Diego Dedura Palomero",
+                "comp2": "Esteban Bruna  / Franco Emanuel Egea ",
+                "odds": {
+                    "12": {
+                        "1": "8,80",
+                        "2": "1,05"
+                    },
+                    "": {}
+                }
+            }
+        }
+    },
+    " ITF Uslar | Singles | Men": {
+        "19/07/2023": {
+            "6225464": {
+                "time": "11:00",
+                "comp1": "Jannik Opitz",
+                "comp2": "Esteban Bruna ",
+                "odds": {
+                    "12": {
+                        "1": "1,17",
+                        "2": "4,47"
+                    },
+                    "": {}
+                }
+            },
+            "6225465": {
+                "time": "11:00",
+                "comp1": "Juan Carlos Prado Angelo",
+                "comp2": "Justin Engel ",
+                "odds": {
+                    "12": {
+                        "1": "1,33",
+                        "2": "3,10"
+                    },
+                    "": {}
+                }
+            },
+            "6227939": {
+                "time": "11:00",
+                "comp1": "Jeremy Schifris",
+                "comp2": "Ronit Gupta ",
+                "odds": {
+                    "12": {
+                        "1": "1,01",
+                        "2": "12,00"
+                    },
+                    "": {}
+                }
+            },
+            "6224999": {
+                "time": "12:30",
+                "comp1": "Filip Apltauer",
+                "comp2": "Jakub Nicod ",
+                "odds": {
+                    "12": {
+                        "1": "2,90",
+                        "2": "1,37"
+                    },
+                    "": {}
+                }
+            },
+            "6225471": {
+                "time": "12:30",
+                "comp1": "Florian Broska",
+                "comp2": "Corentin Denolly ",
+                "odds": {
+                    "12": {
+                        "1": "1,87",
+                        "2": "1,83"
+                    },
+                    "": {}
+                }
+            },
+            "6225466": {
+                "time": "14:00",
+                "comp1": "P. Bailly",
+                "comp2": "Facundo Yunis ",
+                "odds": {
+                    "12": {
+                        "1": "1,17",
+                        "2": "4,47"
+                    },
+                    "": {}
+                }
+            },
+            "6225487": {
+                "time": "14:00",
+                "comp1": "JP Paz",
+                "comp2": "Illya Biloborodko ",
+                "odds": {
+                    "12": {
+                        "1": "1,45",
+                        "2": "2,59"
+                    },
+                    "": {}
+                }
+            },
+            "6225488": {
+                "time": "14:00",
+                "comp1": "Adrian Oetzbach",
+                "comp2": "Franco Emanuel Egea ",
+                "odds": {
+                    "12": {
+                        "1": "2,47",
+                        "2": "1,49"
+                    },
+                    "": {}
+                }
+            },
+            "6224998": {
+                "time": "15:30",
+                "comp1": "Dominik Boehler",
+                "comp2": "John Sperle ",
+                "odds": {
+                    "12": {
+                        "1": "2,28",
+                        "2": "1,57"
+                    },
+                    "": {}
+                }
+            }
+        }
+    }
+}
